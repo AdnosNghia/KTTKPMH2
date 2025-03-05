@@ -1,0 +1,465 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Các Nội dụng khác\\Các môn học\\Học kì 2 năm 3\\Kiến trúc và thiết kê phần mềm\\Thực hành\\ASC.Solution\\ASC.Texts\\ASC.Tests.csproj": {}
+  },
+  "projects": {
+    "D:\\Các Nội dụng khác\\Các môn học\\Học kì 2 năm 3\\Kiến trúc và thiết kê phần mềm\\Thực hành\\ASC.Solution\\ASC.Business\\ASC.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Các Nội dụng khác\\Các môn học\\Học kì 2 năm 3\\Kiến trúc và thiết kê phần mềm\\Thực hành\\ASC.Solution\\ASC.Business\\ASC.Business.csproj",
+        "projectName": "ASC.Business",
+        "projectPath": "D:\\Các Nội dụng khác\\Các môn học\\Học kì 2 năm 3\\Kiến trúc và thiết kê phần mềm\\Thực hành\\ASC.Solution\\ASC.Business\\ASC.Business.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\Các Nội dụng khác\\Các môn học\\Học kì 2 năm 3\\Kiến trúc và thiết kê phần mềm\\Thực hành\\ASC.Solution\\ASC.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Các Nội dụng khác\\Các môn học\\Học kì 2 năm 3\\Kiến trúc và thiết kê phần mềm\\Thực hành\\ASC.Solution\\ASC.DataAcess\\ASC.DataAcess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Các Nội dụng khác\\Các môn học\\Học kì 2 năm 3\\Kiến trúc và thiết kê phần mềm\\Thực hành\\ASC.Solution\\ASC.DataAcess\\ASC.DataAcess.csproj",
+        "projectName": "ASC.DataAcess",
+        "projectPath": "D:\\Các Nội dụng khác\\Các môn học\\Học kì 2 năm 3\\Kiến trúc và thiết kê phần mềm\\Thực hành\\ASC.Solution\\ASC.DataAcess\\ASC.DataAcess.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\Các Nội dụng khác\\Các môn học\\Học kì 2 năm 3\\Kiến trúc và thiết kê phần mềm\\Thực hành\\ASC.Solution\\ASC.DataAcess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Các Nội dụng khác\\Các môn học\\Học kì 2 năm 3\\Kiến trúc và thiết kê phần mềm\\Thực hành\\ASC.Solution\\ASC.Model\\ASC.Model.csproj": {
+                "projectPath": "D:\\Các Nội dụng khác\\Các môn học\\Học kì 2 năm 3\\Kiến trúc và thiết kê phần mềm\\Thực hành\\ASC.Solution\\ASC.Model\\ASC.Model.csproj"
+              },
+              "D:\\Các Nội dụng khác\\Các môn học\\Học kì 2 năm 3\\Kiến trúc và thiết kê phần mềm\\Thực hành\\ASC.Solution\\ASC.Utilities\\ASC.Utilities.csproj": {
+                "projectPath": "D:\\Các Nội dụng khác\\Các môn học\\Học kì 2 năm 3\\Kiến trúc và thiết kê phần mềm\\Thực hành\\ASC.Solution\\ASC.Utilities\\ASC.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Các Nội dụng khác\\Các môn học\\Học kì 2 năm 3\\Kiến trúc và thiết kê phần mềm\\Thực hành\\ASC.Solution\\ASC.Model\\ASC.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Các Nội dụng khác\\Các môn học\\Học kì 2 năm 3\\Kiến trúc và thiết kê phần mềm\\Thực hành\\ASC.Solution\\ASC.Model\\ASC.Model.csproj",
+        "projectName": "ASC.Model",
+        "projectPath": "D:\\Các Nội dụng khác\\Các môn học\\Học kì 2 năm 3\\Kiến trúc và thiết kê phần mềm\\Thực hành\\ASC.Solution\\ASC.Model\\ASC.Model.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\Các Nội dụng khác\\Các môn học\\Học kì 2 năm 3\\Kiến trúc và thiết kê phần mềm\\Thực hành\\ASC.Solution\\ASC.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Các Nội dụng khác\\Các môn học\\Học kì 2 năm 3\\Kiến trúc và thiết kê phần mềm\\Thực hành\\ASC.Solution\\ASC.Texts\\ASC.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Các Nội dụng khác\\Các môn học\\Học kì 2 năm 3\\Kiến trúc và thiết kê phần mềm\\Thực hành\\ASC.Solution\\ASC.Texts\\ASC.Tests.csproj",
+        "projectName": "ASC.Tests",
+        "projectPath": "D:\\Các Nội dụng khác\\Các môn học\\Học kì 2 năm 3\\Kiến trúc và thiết kê phần mềm\\Thực hành\\ASC.Solution\\ASC.Texts\\ASC.Tests.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\Các Nội dụng khác\\Các môn học\\Học kì 2 năm 3\\Kiến trúc và thiết kê phần mềm\\Thực hành\\ASC.Solution\\ASC.Texts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Các Nội dụng khác\\Các môn học\\Học kì 2 năm 3\\Kiến trúc và thiết kê phần mềm\\Thực hành\\ASC.Solution\\ASC.Web\\ASC.Web.csproj": {
+                "projectPath": "D:\\Các Nội dụng khác\\Các môn học\\Học kì 2 năm 3\\Kiến trúc và thiết kê phần mềm\\Thực hành\\ASC.Solution\\ASC.Web\\ASC.Web.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Các Nội dụng khác\\Các môn học\\Học kì 2 năm 3\\Kiến trúc và thiết kê phần mềm\\Thực hành\\ASC.Solution\\ASC.Utilities\\ASC.Utilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Các Nội dụng khác\\Các môn học\\Học kì 2 năm 3\\Kiến trúc và thiết kê phần mềm\\Thực hành\\ASC.Solution\\ASC.Utilities\\ASC.Utilities.csproj",
+        "projectName": "ASC.Utilities",
+        "projectPath": "D:\\Các Nội dụng khác\\Các môn học\\Học kì 2 năm 3\\Kiến trúc và thiết kê phần mềm\\Thực hành\\ASC.Solution\\ASC.Utilities\\ASC.Utilities.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\Các Nội dụng khác\\Các môn học\\Học kì 2 năm 3\\Kiến trúc và thiết kê phần mềm\\Thực hành\\ASC.Solution\\ASC.Utilities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Các Nội dụng khác\\Các môn học\\Học kì 2 năm 3\\Kiến trúc và thiết kê phần mềm\\Thực hành\\ASC.Solution\\ASC.Web\\ASC.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Các Nội dụng khác\\Các môn học\\Học kì 2 năm 3\\Kiến trúc và thiết kê phần mềm\\Thực hành\\ASC.Solution\\ASC.Web\\ASC.Web.csproj",
+        "projectName": "ASC.Web",
+        "projectPath": "D:\\Các Nội dụng khác\\Các môn học\\Học kì 2 năm 3\\Kiến trúc và thiết kê phần mềm\\Thực hành\\ASC.Solution\\ASC.Web\\ASC.Web.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\Các Nội dụng khác\\Các môn học\\Học kì 2 năm 3\\Kiến trúc và thiết kê phần mềm\\Thực hành\\ASC.Solution\\ASC.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Các Nội dụng khác\\Các môn học\\Học kì 2 năm 3\\Kiến trúc và thiết kê phần mềm\\Thực hành\\ASC.Solution\\ASC.Business\\ASC.Business.csproj": {
+                "projectPath": "D:\\Các Nội dụng khác\\Các môn học\\Học kì 2 năm 3\\Kiến trúc và thiết kê phần mềm\\Thực hành\\ASC.Solution\\ASC.Business\\ASC.Business.csproj"
+              },
+              "D:\\Các Nội dụng khác\\Các môn học\\Học kì 2 năm 3\\Kiến trúc và thiết kê phần mềm\\Thực hành\\ASC.Solution\\ASC.DataAcess\\ASC.DataAcess.csproj": {
+                "projectPath": "D:\\Các Nội dụng khác\\Các môn học\\Học kì 2 năm 3\\Kiến trúc và thiết kê phần mềm\\Thực hành\\ASC.Solution\\ASC.DataAcess\\ASC.DataAcess.csproj"
+              },
+              "D:\\Các Nội dụng khác\\Các môn học\\Học kì 2 năm 3\\Kiến trúc và thiết kê phần mềm\\Thực hành\\ASC.Solution\\ASC.Model\\ASC.Model.csproj": {
+                "projectPath": "D:\\Các Nội dụng khác\\Các môn học\\Học kì 2 năm 3\\Kiến trúc và thiết kê phần mềm\\Thực hành\\ASC.Solution\\ASC.Model\\ASC.Model.csproj"
+              },
+              "D:\\Các Nội dụng khác\\Các môn học\\Học kì 2 năm 3\\Kiến trúc và thiết kê phần mềm\\Thực hành\\ASC.Solution\\ASC.Utilities\\ASC.Utilities.csproj": {
+                "projectPath": "D:\\Các Nội dụng khác\\Các môn học\\Học kì 2 năm 3\\Kiến trúc và thiết kê phần mềm\\Thực hành\\ASC.Solution\\ASC.Utilities\\ASC.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.12, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.12, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[8.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[8.0.12, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

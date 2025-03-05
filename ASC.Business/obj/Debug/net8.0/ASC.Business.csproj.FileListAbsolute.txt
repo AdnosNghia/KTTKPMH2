@@ -1,0 +1,11 @@
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Business\bin\Debug\net8.0\ASC.Business.deps.json
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Business\bin\Debug\net8.0\ASC.Business.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Business\bin\Debug\net8.0\ASC.Business.pdb
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Business\obj\Debug\net8.0\ASC.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Business\obj\Debug\net8.0\ASC.Business.AssemblyInfoInputs.cache
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Business\obj\Debug\net8.0\ASC.Business.AssemblyInfo.cs
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Business\obj\Debug\net8.0\ASC.Business.csproj.CoreCompileInputs.cache
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Business\obj\Debug\net8.0\ASC.Business.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Business\obj\Debug\net8.0\refint\ASC.Business.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Business\obj\Debug\net8.0\ASC.Business.pdb
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Business\obj\Debug\net8.0\ref\ASC.Business.dll

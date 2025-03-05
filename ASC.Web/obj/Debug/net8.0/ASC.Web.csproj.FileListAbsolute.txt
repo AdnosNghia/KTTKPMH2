@@ -1,0 +1,326 @@
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\obj\Debug\net8.0\ASC.Web.csproj.AssemblyReference.cache
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\obj\Debug\net8.0\ASC.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\obj\Debug\net8.0\ASC.Web.AssemblyInfoInputs.cache
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\obj\Debug\net8.0\ASC.Web.AssemblyInfo.cs
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\obj\Debug\net8.0\ASC.Web.csproj.CoreCompileInputs.cache
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\obj\Debug\net8.0\ASC.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\obj\Debug\net8.0\ASC.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\obj\Debug\net8.0\ASC.Web.RazorAssemblyInfo.cache
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\obj\Debug\net8.0\ASC.Web.RazorAssemblyInfo.cs
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\appsettings.json
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\ASC.Web.staticwebassets.runtime.json
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\ASC.Web.staticwebassets.endpoints.json
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\ASC.Web.exe
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\ASC.Web.deps.json
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\ASC.Web.runtimeconfig.json
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\ASC.Web.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\ASC.Web.pdb
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\obj\Debug\net8.0\scopedcss\bundle\ASC.Web.styles.css
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\obj\Debug\net8.0\scopedcss\projectbundle\ASC.Web.bundle.scp.css
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\obj\Debug\net8.0\staticwebassets\msbuild.ASC.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\obj\Debug\net8.0\staticwebassets\msbuild.ASC.Web.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.ASC.Web.props
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ASC.Web.props
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ASC.Web.props
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\obj\Debug\net8.0\ASC.Web.csproj.Up2Date
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\obj\Debug\net8.0\ASC.Web.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\obj\Debug\net8.0\refint\ASC.Web.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\obj\Debug\net8.0\ASC.Web.pdb
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\obj\Debug\net8.0\ASC.Web.genruntimeconfig.cache
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\obj\Debug\net8.0\ref\ASC.Web.dll
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\appsettings.Production.json
+C:\Users\Liem\source\repos\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\appsettings.Development.json
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\appsettings.json
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\appsettings.Production.json
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\ASC.Web.staticwebassets.runtime.json
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\ASC.Web.exe
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\ASC.Web.deps.json
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\ASC.Web.runtimeconfig.json
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\ASC.Web.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\ASC.Web.pdb
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\Azure.Core.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\Azure.Identity.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\Humanizer.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\System.ClientModel.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\System.CodeDom.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\obj\Debug\net8.0\ASC.Web.csproj.AssemblyReference.cache
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\obj\Debug\net8.0\ASC.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\obj\Debug\net8.0\ASC.Web.AssemblyInfoInputs.cache
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\obj\Debug\net8.0\ASC.Web.AssemblyInfo.cs
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\obj\Debug\net8.0\ASC.Web.csproj.CoreCompileInputs.cache
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\obj\Debug\net8.0\ASC.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\obj\Debug\net8.0\ASC.Web.RazorAssemblyInfo.cache
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\obj\Debug\net8.0\ASC.Web.RazorAssemblyInfo.cs
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\obj\Debug\net8.0\staticwebassets.build.json
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\obj\Debug\net8.0\staticwebassets.development.json
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\obj\Debug\net8.0\staticwebassets\msbuild.ASC.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.ASC.Web.props
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ASC.Web.props
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ASC.Web.props
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\obj\Debug\net8.0\scopedcss\bundle\ASC.Web.styles.css
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\obj\Debug\net8.0\scopedcss\projectbundle\ASC.Web.bundle.scp.css
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\obj\Debug\net8.0\ASC.Web.csproj.Up2Date
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\obj\Debug\net8.0\ASC.Web.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\obj\Debug\net8.0\refint\ASC.Web.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\obj\Debug\net8.0\ASC.Web.pdb
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\obj\Debug\net8.0\ASC.Web.genruntimeconfig.cache
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\obj\Debug\net8.0\ref\ASC.Web.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\ASC.Business.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\ASC.DataAcess.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\ASC.Model.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\ASC.Utilities.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\ASC.Business.pdb
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\ASC.DataAcess.pdb
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\ASC.Model.pdb
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\ASC.Utilities.pdb
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\obj\Debug\net8.0\ASC.Web.MvcApplicationPartsAssemblyInfo.cs
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
