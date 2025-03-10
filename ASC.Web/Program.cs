@@ -1,4 +1,4 @@
-using ASC.DataAccess;
+﻿using ASC.DataAccess;
 using ASC.DataAccess.Interfaces;
 using ASC.Solution.Services;
 using ASC.Web.Configuration;
@@ -20,6 +20,7 @@ builder.Services.AddIdentity<IdentityUser, IdentityRole>((options) =>
     options.User.RequireUniqueEmail = true;
 }).AddEntityFrameworkStores<ApplicationDbContext>().AddDefaultTokenProviders();
 
+
 builder.Services.AddScoped<DbContext, ApplicationDbContext>();
 
 
@@ -40,7 +41,7 @@ builder.Services.AddTransient<ISmsSender, AuthMessageSender>();
 
 builder.Services.AddSingleton<IIdentitySeed, IdentitySeed>();
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
-
+builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

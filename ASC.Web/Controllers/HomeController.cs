@@ -8,11 +8,11 @@ using ASC.Utilities;
 
 namespace ASC.Web.Controllers
 {
-    public class HomeController : Controller
+    public class HomeController : AnonymousController
     {
         private readonly ILogger<HomeController> _logger;
         private readonly IOptions<ApplicationSettings> _settings;
-        private readonly IEmailSender _emailSender;
+        private readonly IEmailSender _emailSender; 
 
         public HomeController(
             ILogger<HomeController> logger,
@@ -28,14 +28,14 @@ namespace ASC.Web.Controllers
 
         public IActionResult Index()
         {
-            //// Set Session
+            ////// Set Session
             //HttpContext.Session.SetSession("Test", _settings.Value);
 
             //// Get Session
             //var settings = HttpContext.Session.GetSession<ApplicationSettings>("Test");
 
-            //// Usage of IOptions
-            //ViewBag.Title = settings.ApplicationTitle;
+            ////// Usage of IOptions
+            //ViewBag.Title = _settings.Value.ApplicationTitle;
 
             return View();
 
@@ -47,12 +47,29 @@ namespace ASC.Web.Controllers
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
-        {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
-        }
+        //public IActionResult Error()
+        //{
+        //    return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+        //}
 
         public IActionResult Dashboard()
+        {
+            return View();
+        }
+
+        public IActionResult About()
+        {
+            ViewData["Message"] = "Your application description page.";
+            return View();
+        }
+
+        public IActionResult Contact()
+        {
+            ViewData["Message"] = "Your contact page.";
+            return View();
+        }
+
+        public IActionResult Error()
         {
             return View();
         }
