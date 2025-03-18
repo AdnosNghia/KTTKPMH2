@@ -95,69 +95,74 @@ namespace ASC.Web.Areas.Identity.Pages.Account
 
         public async Task OnGetAsync(string returnUrl = null)
         {
-            //if (!string.IsNullOrEmpty(ErrorMessage))
-            //{
-            //    ModelState.AddModelError(string.Empty, ErrorMessage);
-            //}
+            if (!string.IsNullOrEmpty(ErrorMessage))
+            {
+                ModelState.AddModelError(string.Empty, ErrorMessage);
+            }
 
-            //returnUrl ??= Url.Content("~/");
+            returnUrl ??= Url.Content("~/");
 
             // Clear the existing external cookie to ensure a clean login process
             await HttpContext.SignOutAsync(IdentityConstants.ExternalScheme);
 
-            //ExternalLogins = (await _signInManager.GetExternalAuthenticationSchemesAsync()).ToList();
+            ExternalLogins = (await _signInManager.GetExternalAuthenticationSchemesAsync()).ToList();
 
             ReturnUrl = returnUrl;
         }
 
         public async Task<ActionResult> OnPostAsync(string returnUrl = null)
         {
-            //returnUrl = returnUrl ?? Url.Content("~/");
+           
+                //returnUrl ??= Url.Content("~/");
 
-            if (ModelState.IsValid)
-            {
-                var user = await _userManager.FindByEmailAsync(Input.Email);
-                if (user == null)
+                if (ModelState.IsValid)
                 {
-                    ModelState.AddModelError(string.Empty, "Invalid login attempt.");
-                    return Page();
-                }
+                    var user = await _userManager.FindByEmailAsync(Input.Email);
+                    if (user == null)
+                    {
+                        ModelState.AddModelError(string.Empty, "Invalid login attempt.");
+                        return Page();
+                    }
 
-                var list = await _userManager.GetClaimsAsync(user);
-                var isActive = Boolean.Parse(list.SingleOrDefault(p => p.Type == "IsActive").Value);
-                if (!isActive)
-                {
-                    ModelState.AddModelError(string.Empty, "Account has been locked.");
-                    return Page();
-                }
+                    var list = await _userManager.GetClaimsAsync(user);
+                    var isActive = bool.Parse(list.SingleOrDefault(p => p.Type == "IsActive").Value);
+                    if (!isActive)
+                    {
+                        ModelState.AddModelError(string.Empty, "Account has been locked.");
+                        return Page();
+                    }
 
-                var result = await _signInManager.PasswordSignInAsync(user.UserName, Input.Password, Input.RememberMe, lockoutOnFailure: false);
-                if (result.Succeeded)
-                {
-                    _logger.LogInformation(1, "User logged in.");
-                    if (!string.IsNullOrWhiteSpace(returnUrl))
-                        return RedirectToAction(returnUrl);
+                    var result = await _signInManager.PasswordSignInAsync(user.UserName, Input.Password, Input.RememberMe, lockoutOnFailure: false);
+                    if (result.Succeeded)
+                    {
+                        _logger.LogInformation(1, "User logged in.");
+                        if (!string.IsNullOrWhiteSpace(returnUrl))
+                        {
+                            return RedirectToAction(returnUrl);
+                        }
+                        else
+                        {
+                            return RedirectToAction("Dashboard", "Dashboard", new { Area = "ServiceRequests" });
+                        }
+                    }
+                    if (result.RequiresTwoFactor)
+                    {
+                        return RedirectToPage("./LoginWith2fa", new { ReturnUrl = returnUrl, RememberMe = Input.RememberMe });
+                    }
+                    if (result.IsLockedOut)
+                    {
+                        _logger.LogWarning("User account locked out.");
+                        return RedirectToPage("./Lockout");
+                    }
                     else
-                        return RedirectToAction("Dashboard", "Dashboard");
+                    {
+                        ModelState.AddModelError(string.Empty, "Invalid login attempt.");
+                        return Page();
+                    }
                 }
-                if (result.RequiresTwoFactor)
-                {
-                    return RedirectToPage("./LoginWith2fa", new { ReturnUrl = returnUrl, RememberMe = Input.RememberMe });
-                }
-                if (result.IsLockedOut)
-                {
-                    _logger.LogWarning("User account locked out.");
-                    return RedirectToPage("./Lockout");
-                }
-                else
-                {
-                    ModelState.AddModelError(string.Empty, "Invalid login attempt.");
-                    return Page();
-                }
-            }
 
-            // If we got this far, something failed, redisplay form
-            return Page();
+                return Page();
+            
         }
     }
 }

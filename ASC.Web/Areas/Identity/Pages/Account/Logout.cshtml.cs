@@ -12,29 +12,30 @@ using Microsoft.Extensions.Logging;
 
 namespace ASC.Web.Areas.Identity.Pages.Account
 {
-    public class LogoutModel : PageModel
+    namespace ASC.Web.Areas.Identity.Pages.Account
     {
-        private readonly SignInManager<IdentityUser> _signInManager;
-        private readonly ILogger<LogoutModel> _logger;
-
-        public LogoutModel(SignInManager<IdentityUser> signInManager, ILogger<LogoutModel> logger)
+        [AllowAnonymous]
+        public class LogoutModel : PageModel
         {
-            _signInManager = signInManager;
-            _logger = logger;
-        }
+            private readonly SignInManager<IdentityUser> _signInManager;
+            private readonly ILogger<LogoutModel> _logger;
 
-        public void OnGet()
-        {
+            public LogoutModel(SignInManager<IdentityUser> signInManager, ILogger<LogoutModel> logger)
+            {
+                _signInManager = signInManager;
+                _logger = logger;
+            }
 
-        }
+            public void OnGet()
+            {
+            }
 
-        public async Task<IActionResult> OnPost(string returnUrl = null)
-        {
-            await _signInManager.SignOutAsync();
-            _logger.LogInformation("User logged out.");
-          
-                return RedirectToPage("Home/Index");
-            
+            public async Task<IActionResult> OnPost(string returnUrl = null)
+            {
+                await _signInManager.SignOutAsync();
+                _logger.LogInformation("User logged out.");
+                return LocalRedirect("/Home/Index");
+            }
         }
     }
 }

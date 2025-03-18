@@ -13,7 +13,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASC.Model", "ASC.Model\ASC.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASC.Utilities", "ASC.Utilities\ASC.Utilities.csproj", "{15655172-DBBC-4EEA-8CD6-3A6BF652C6DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASC.Tests", "ASC.Tests\ASC.Tests.csproj", "{232A7C97-5440-4F83-9CBE-F3005F18F326}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASC.Tests", "ASC.Tests\ASC.Tests.csproj", "{232A7C97-5440-4F83-9CBE-F3005F18F326}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
