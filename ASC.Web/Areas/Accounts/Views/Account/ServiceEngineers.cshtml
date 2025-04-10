@@ -1,0 +1,175 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using System.Security.Claims
+@model ASC.Web.Areas.Accounts.Models.ServiceEngineerViewModel
+@inject UserManager<IdentityUser> userManager;
+
+@{
+    Layout = "_SecureLayout";
+}
+
+<div class="row">
+    <div class="row z-depth-3">
+        <div class="col s12 padding-left-20px padding-right-20px">
+            <div class="row z-depth-3">
+                <div class="section white-text padding-left-10px blue-grey lighten-1">
+                    <h5>Service Engineers</h5>
+                </div>
+            </div>
+            <div class="divider"></div>
+            <div class="col s12 padding-bottom-10px">
+                @if (Model.ServiceEngineers == null || !Model.ServiceEngineers.Any())
+                {
+                    // In case of No records, display no records message
+                    <div class="card blue-grey lighten-5">
+                        <div class="card-content white-text">
+                            <span class="card-title">No Service Engineers!!</span>
+                            <p>No Service Engineers found, please add a Service Engineer to system.</p>
+                        </div>
+                    </div>
+                }
+                else
+                {
+                    // Display List of Service Engineers
+                    <table class="highlight centered">
+                        <thead>
+                            <tr>
+                                <th>Email</th>
+                                <th>UserName</th>
+                                <th>IsActive</th>
+                                <th>Actions</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var user in Model.ServiceEngineers)
+                            {
+                                <tr>
+                                    <td>@user.Email</td>
+                                    <td>@user.UserName</td>
+                                    @{
+                                        var identity = await userManager.GetClaimsAsync(user);
+                                    }
+                                    <td>
+                                        <img src="@(Boolean.Parse(identity.SingleOrDefault(p => p.Type == "IsActive").Value) ? "/images/green_tick.png" : "/images/red_cross.png")" />
+                                    </td>
+                                    <td>
+                                        <i class="small material-icons edit cursor-hand">mode_edit</i>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="row z-depth-3">
+        <div class="col s12 padding-0px">
+            <div class="row z-depth-3">
+                <div class="section white-text padding-left-10px blue-grey lighten-1">
+                    <h5>Service Engineer Details</h5>
+                </div>
+            </div>
+            <div class="divider"></div>
+            <div class="col s12 padding-0px">
+                <form asp-controller="Account" asp-action="ServiceEngineers" method="post" class="col s12" id="formUser">
+                    @Html.AntiForgeryToken()
+                    <input type="hidden" asp-for="Registration.IsEdit" />
+                    <input type="hidden" asp-for="Registration.Email" id="Registration_Email" />
+                    <div class="input-field col s4">
+                        <input asp-for="Registration.Email" id="Input_Registration_Email" class="validate" required />
+                        <label for="Input_Registration_Email">Email</label>
+                    </div>
+                    <div class="input-field col s4">
+                        <input asp-for="Registration.UserName" class="validate" required />
+                        <label for="Registration.UserName">UserName</label>
+                    </div>
+                    <div class="input-field col s4">
+                        <input asp-for="Registration.Password" class="validate" required />
+                        <label for="Registration.Password">Password</label>
+                    </div>
+                    <div class="input-field col s4">
+                        <input asp-for="Registration.ConfirmPassword" class="validate" required />
+                        <label for="Registration.ConfirmPassword">ConfirmPassword</label>
+                    </div>
+                    <div class="col s4">
+                        <label>Is Active</label>
+                        <div class="switch">
+                            <label>
+                                Off
+                                <input asp-for="Registration.IsActive" type="checkbox">
+                                <span class="lever"></span>
+                                On
+                            </label>
+                        </div>
+                    </div>
+                    <div class="input-field col s2 right-align">
+                        <button class="btn waves-effect waves-light btnSubmit" type="submit" name="action" value="Create">
+                            Create
+                            <i class="material-icons right">send</i>
+                        </button>
+                        <button class="btn waves-effect waves-light red lighten-1" type="reset" name="action" value="Reset">Reset</button>
+                    </div>
+                    <div asp-validation-summary="All" class="row col s12 right-align"></div>
+                </form>
+
+            </div>
+        </div>
+    </div>
+</div>
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            // Initialize DataTable to show list of Engineers
+            var table = $('#tblServiceEngineers').DataTable({
+                'pageLength': 3,
+                // Number of records to be displayed per page
+                'lengthMenu': [[3, 5, 10, -1], [3, 5, 10, 'All']]
+            });
+
+            // Set Styles for DataTable and Number of Records to be displayed in drop-down
+            $('#tblServiceEngineers').css('width', '100%');
+            $('select[name="tblServiceEngineers_length"]').formSelect();
+
+            // Get the column API object
+            var isActiveColumn = table.column(2);
+            isActiveColumn.visible(false);
+
+            // Handle Reset fuctionality
+            $(document).on('click', '.reset', function () {
+                $('#fromUser')[0].reset();
+                $('#Input_Registration_Email').removeAttr('disabled');
+                $('.btnSubmit').text('Create');
+                $('#Registration_IsEdit').val(false);
+            });
+
+            // This is required to disable Email filed on Server-side model validation failure.
+            if ($('#Registration_IsEdit').val() === 'True') {
+                $('#Input_Registration_Email').attr('disabled', 'disabled');
+            }
+
+            // On click of edit icon, populate the details section with details of service engineer
+            $(document).on('click', '.edit', function () {
+                var user = $('#tblServiceEngineers').DataTable().row($(this).parents('tr')).data();
+                $('#Registration_IsEdit').val('True');
+                $('#Input_Registration_Email').val(user[0]);
+                $('#Input_Registration_Email').attr('disabled', 'disabled');
+                $('#Registration_UserName').val(user[1]);
+                $('#Registration_UserName').addClass('valid');
+                $('#Registration_IsActive').prop('checked', user[2] === 'True' ? true : false);
+                $('.btnSubmit').text('Save');
+                M.updateTextFields(); // This is important for Materialize to update labels
+            });
+
+            // Set hidden Email field to correct value from UI field
+            // This is required for
+            $(document).on('click', '.btnSubmit', function () {
+                $('#Registration_Email').val($('#Input_Registration_Email').val());
+                M.updateTextFields(); // This is important for Materialize to update labels
+
+            });
+        });
+    </script>
+}

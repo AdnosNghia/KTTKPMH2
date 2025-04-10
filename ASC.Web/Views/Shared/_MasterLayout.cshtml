@@ -11,8 +11,10 @@
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="~/css/materialize.css" rel="stylesheet" />
     <link href="~/css/style.css" rel="stylesheet" />
-
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.11.3/css/jquery.dataTables.css">
+    
 </head>
 <body>
     @RenderBody()
@@ -22,6 +24,7 @@
     <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>
     <script src="~/js/materialize.js"></script>
     <script src="~/js/init.js"></script>
+    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.11.3/js/jquery.dataTables.js"></script>
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>

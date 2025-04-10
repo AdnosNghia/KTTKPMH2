@@ -743,6 +743,22 @@
           }
         }
       },
+      "Microsoft.AspNetCore.Authentication.Google/3.1.20": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.1/Microsoft.AspNetCore.Authentication.Google.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.AspNetCore.Authentication.Google.dll": {
+            "related": ".xml"
+          }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
       "Microsoft.AspNetCore.Authorization/2.3.0": {
         "type": "package",
         "dependencies": {
@@ -4354,6 +4370,7 @@
           "ASC.Model": "1.0.0",
           "ASC.Utilities": "1.0.0",
           "MailKit": "4.11.0",
+          "Microsoft.AspNetCore.Authentication.Google": "3.1.20",
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "8.0.12",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.12",
           "Microsoft.AspNetCore.Identity.UI": "8.0.12",
@@ -5281,6 +5298,21 @@
         "lib/netstandard2.0/Microsoft.AspNetCore.Authentication.Core.xml",
         "microsoft.aspnetcore.authentication.core.2.3.0.nupkg.sha512",
         "microsoft.aspnetcore.authentication.core.nuspec"
+      ]
+    },
+    "Microsoft.AspNetCore.Authentication.Google/3.1.20": {
+      "sha512": "V4t6QtL86dQQNnuMbluRejJMTLUe5+vYTW4zgd7jAAynzdOMoJV/n/GMRTB+8pdTaQw3b50uBmNR5ENXHLzc1g==",
+      "type": "package",
+      "path": "microsoft.aspnetcore.authentication.google/3.1.20",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/netcoreapp3.1/Microsoft.AspNetCore.Authentication.Google.dll",
+        "lib/netcoreapp3.1/Microsoft.AspNetCore.Authentication.Google.xml",
+        "microsoft.aspnetcore.authentication.google.3.1.20.nupkg.sha512",
+        "microsoft.aspnetcore.authentication.google.nuspec"
       ]
     },
     "Microsoft.AspNetCore.Authorization/2.3.0": {

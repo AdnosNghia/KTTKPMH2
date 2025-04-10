@@ -1,7 +1,6 @@
 ﻿@using Microsoft.AspNetCore.Http
 @using ASC.Utilities
 @using ASC.Web.Data
-@model ASC.Web.Models.NavigationMenu
 @inject IHttpContextAccessor UserHttpContext
 @inject INavigationCacheOperations navigationCache
 
@@ -11,7 +10,6 @@
     
 }
     
-
 
 <!-- Header -->
 <header class="secureLayout">
@@ -40,10 +38,7 @@
 
         @await Component.InvokeAsync("ASC.Web.Navigation.LeftNavigation", await navigationCache.GetNavigationCacheAsync())
 
-
 </ul>
-
-
 
 </header>
 <form class="hide" method="post" id="logout_form" asp-area="Identity" asp-page="/Account/Logout">
@@ -120,6 +115,6 @@
         });
     </script>
 }
-@RenderSection("Scripts", required: false)
+
 
 

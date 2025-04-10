@@ -1,8 +1,4 @@
-﻿// Licensed to the .NET Foundation under one or more agreements.
-// The .NET Foundation licenses this file to you under the MIT license.
-#nullable disable
-
-using System;
+﻿using System;
 using System.ComponentModel.DataAnnotations;
 using System.Security.Claims;
 using System.Text;
@@ -10,7 +6,6 @@ using System.Text.Encodings.Web;
 using System.Threading;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Authorization;
-using Microsoft.Extensions.Options;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.UI.Services;
 using Microsoft.AspNetCore.Mvc;
@@ -29,13 +24,15 @@ namespace ASC.Web.Areas.Identity.Pages.Account
         private readonly IUserEmailStore<IdentityUser> _emailStore;
         private readonly IEmailSender _emailSender;
         private readonly ILogger<ExternalLoginModel> _logger;
+        private readonly RoleManager<IdentityRole> _roleManager;
 
         public ExternalLoginModel(
             SignInManager<IdentityUser> signInManager,
             UserManager<IdentityUser> userManager,
             IUserStore<IdentityUser> userStore,
             ILogger<ExternalLoginModel> logger,
-            IEmailSender emailSender)
+            IEmailSender emailSender,
+            RoleManager<IdentityRole> roleManager)
         {
             _signInManager = signInManager;
             _userManager = userManager;
@@ -43,54 +40,30 @@ namespace ASC.Web.Areas.Identity.Pages.Account
             _emailStore = GetEmailStore();
             _logger = logger;
             _emailSender = emailSender;
+            _roleManager = roleManager;
         }
 
-        /// <summary>
-        ///     This API supports the ASP.NET Core Identity default UI infrastructure and is not intended to be used
-        ///     directly from your code. This API may change or be removed in future releases.
-        /// </summary>
         [BindProperty]
         public InputModel Input { get; set; }
 
-        /// <summary>
-        ///     This API supports the ASP.NET Core Identity default UI infrastructure and is not intended to be used
-        ///     directly from your code. This API may change or be removed in future releases.
-        /// </summary>
         public string ProviderDisplayName { get; set; }
 
-        /// <summary>
-        ///     This API supports the ASP.NET Core Identity default UI infrastructure and is not intended to be used
-        ///     directly from your code. This API may change or be removed in future releases.
-        /// </summary>
         public string ReturnUrl { get; set; }
 
-        /// <summary>
-        ///     This API supports the ASP.NET Core Identity default UI infrastructure and is not intended to be used
-        ///     directly from your code. This API may change or be removed in future releases.
-        /// </summary>
         [TempData]
         public string ErrorMessage { get; set; }
 
-        /// <summary>
-        ///     This API supports the ASP.NET Core Identity default UI infrastructure and is not intended to be used
-        ///     directly from your code. This API may change or be removed in future releases.
-        /// </summary>
         public class InputModel
         {
-            /// <summary>
-            ///     This API supports the ASP.NET Core Identity default UI infrastructure and is not intended to be used
-            ///     directly from your code. This API may change or be removed in future releases.
-            /// </summary>
             [Required]
             [EmailAddress]
             public string Email { get; set; }
         }
-        
+
         public IActionResult OnGet() => RedirectToPage("./Login");
 
         public IActionResult OnPost(string provider, string returnUrl = null)
         {
-            // Request a redirect to the external login provider.
             var redirectUrl = Url.Page("./ExternalLogin", pageHandler: "Callback", values: new { returnUrl });
             var properties = _signInManager.ConfigureExternalAuthenticationProperties(provider, redirectUrl);
             return new ChallengeResult(provider, properties);
@@ -98,7 +71,7 @@ namespace ASC.Web.Areas.Identity.Pages.Account
 
         public async Task<IActionResult> OnGetCallbackAsync(string returnUrl = null, string remoteError = null)
         {
-            returnUrl = returnUrl ?? Url.Content("~/");
+            returnUrl ??= Url.Content("~/");
             if (remoteError != null)
             {
                 ErrorMessage = $"Error from external provider: {remoteError}";
@@ -111,10 +84,22 @@ namespace ASC.Web.Areas.Identity.Pages.Account
                 return RedirectToPage("./Login", new { ReturnUrl = returnUrl });
             }
 
-            // Sign in the user with this external login provider if the user already has a login.
             var result = await _signInManager.ExternalLoginSignInAsync(info.LoginProvider, info.ProviderKey, isPersistent: false, bypassTwoFactor: true);
+            _logger.LogInformation($"External login result: {result.Succeeded}");
+
             if (result.Succeeded)
             {
+                var user = await _userManager.FindByLoginAsync(info.LoginProvider, info.ProviderKey);
+                if (user.NormalizedUserName != "USER")
+                {
+                    user.NormalizedUserName = "USER";
+                    await _userManager.UpdateAsync(user);
+                }
+
+                await EnsureIsActiveClaimExistsAsync(user);
+                await EnsureRoleExists("USER");
+                await EnsureUserInRole(user, "USER");
+
                 _logger.LogInformation("{Name} logged in with {LoginProvider} provider.", info.Principal.Identity.Name, info.LoginProvider);
                 return LocalRedirect(returnUrl);
             }
@@ -124,24 +109,17 @@ namespace ASC.Web.Areas.Identity.Pages.Account
             }
             else
             {
-                // If the user does not have an account, then ask the user to create an account.
                 ReturnUrl = returnUrl;
                 ProviderDisplayName = info.ProviderDisplayName;
-                if (info.Principal.HasClaim(c => c.Type == ClaimTypes.Email))
-                {
-                    Input = new InputModel
-                    {
-                        Email = info.Principal.FindFirstValue(ClaimTypes.Email)
-                    };
-                }
+                var email = info.Principal.FindFirstValue(ClaimTypes.Email);
+                Input = new InputModel { Email = email };
                 return Page();
             }
         }
 
         public async Task<IActionResult> OnPostConfirmationAsync(string returnUrl = null)
         {
-            returnUrl = returnUrl ?? Url.Content("~/");
-            // Get the information about the user from the external login provider
+            returnUrl ??= Url.Content("~/");
             var info = await _signInManager.GetExternalLoginInfoAsync();
             if (info == null)
             {
@@ -151,10 +129,14 @@ namespace ASC.Web.Areas.Identity.Pages.Account
 
             if (ModelState.IsValid)
             {
+                await EnsureRoleExists("USER");
+
                 var user = CreateUser();
 
                 await _userStore.SetUserNameAsync(user, Input.Email, CancellationToken.None);
                 await _emailStore.SetEmailAsync(user, Input.Email, CancellationToken.None);
+
+                user.NormalizedUserName = "USER";
 
                 var result = await _userManager.CreateAsync(user);
                 if (result.Succeeded)
@@ -162,6 +144,9 @@ namespace ASC.Web.Areas.Identity.Pages.Account
                     result = await _userManager.AddLoginAsync(user, info);
                     if (result.Succeeded)
                     {
+                        await _userManager.AddClaimAsync(user, new Claim("IsActive", "true"));
+                        await _userManager.AddToRoleAsync(user, "USER");
+
                         _logger.LogInformation("User created an account using {Name} provider.", info.LoginProvider);
 
                         var userId = await _userManager.GetUserIdAsync(user);
@@ -176,7 +161,6 @@ namespace ASC.Web.Areas.Identity.Pages.Account
                         await _emailSender.SendEmailAsync(Input.Email, "Confirm your email",
                             $"Please confirm your account by <a href='{HtmlEncoder.Default.Encode(callbackUrl)}'>clicking here</a>.");
 
-                        // If account confirmation is required, we need to show the link if we don't have a real email sender
                         if (_userManager.Options.SignIn.RequireConfirmedAccount)
                         {
                             return RedirectToPage("./RegisterConfirmation", new { Email = Input.Email });
@@ -218,6 +202,34 @@ namespace ASC.Web.Areas.Identity.Pages.Account
                 throw new NotSupportedException("The default UI requires a user store with email support.");
             }
             return (IUserEmailStore<IdentityUser>)_userStore;
+        }
+
+        private async Task EnsureIsActiveClaimExistsAsync(IdentityUser user)
+        {
+            var isActiveClaim = await _userManager.GetClaimsAsync(user);
+            if (!isActiveClaim.Any(c => c.Type == "IsActive"))
+            {
+                await _userManager.AddClaimAsync(user, new Claim("IsActive", "true"));
+                _logger.LogInformation($"Added IsActive claim for user {user.Email}");
+            }
+        }
+
+        private async Task EnsureRoleExists(string roleName)
+        {
+            if (!await _roleManager.RoleExistsAsync(roleName))
+            {
+                await _roleManager.CreateAsync(new IdentityRole(roleName));
+                _logger.LogInformation($"Created role {roleName}");
+            }
+        }
+
+        private async Task EnsureUserInRole(IdentityUser user, string roleName)
+        {
+            if (!await _userManager.IsInRoleAsync(user, roleName))
+            {
+                await _userManager.AddToRoleAsync(user, roleName);
+                _logger.LogInformation($"Added user {user.Email} to role {roleName}");
+            }
         }
     }
 }

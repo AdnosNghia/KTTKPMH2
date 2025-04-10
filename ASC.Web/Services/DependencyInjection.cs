@@ -23,7 +23,14 @@ namespace ASC.Web.Services
             // Add Options and get data from appsettings.json with "AppSettings"
             services.AddOptions(); // IOption
             services.Configure<ApplicationSettings>(config.GetSection("AppSettings"));
-
+            //Using a Gmail Authentication Provider for Customer Authentication
+            services.AddAuthentication()
+                .AddGoogle(options =>
+                {
+                    IConfigurationSection googleAuthSection = config.GetSection("Authentication:Google");
+                    options.ClientId = config["Google:Identity:ClientId"];
+                    options.ClientSecret = config["Google:Identity:ClientSecret"];
+                });
             return services;
         }
 
@@ -40,6 +47,7 @@ namespace ASC.Web.Services
             services.AddTransient<ASC.Web.Services.IEmailSender, AuthMessageSender>();
             services.AddTransient<Microsoft.AspNetCore.Identity.UI.Services.IEmailSender, EmailSenderAdapter>();
             services.AddTransient<ISmsSender, AuthMessageSender>();
+
 
 
             services.AddSingleton<IIdentitySeed, IdentitySeed>();

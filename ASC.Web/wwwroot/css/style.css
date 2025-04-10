@@ -8,7 +8,7 @@
 
 /*login*/
 .padding-left-10px {
-    padding-left: 10px;
+    padding-left: 10px; 
 }
 
 .input-field .input-validation-error {
@@ -24,6 +24,31 @@
 .validation-summary-errors {
     color: #FF4081;
 }
+
+.padding-bottom-15px {
+    padding-bottom: 15px !important;
+}
+
+.cursor-hand {
+    cursor: pointer
+}
+
+.padding-left-20px {
+    padding-left: 20px;
+}
+
+.padding-right-20px {
+    padding-right: 20px;
+}
+
+.margin-top-50px {
+    margin-top: 50px;
+}
+
+.margin-bottom-50px {
+    margin-bottom: 50px;
+}
+
 /*login*/
 
 nav ul a,

@@ -13,6 +13,7 @@
           "ASC.Model": "1.0.0",
           "ASC.Utilities": "1.0.0",
           "MailKit": "4.11.0",
+          "Microsoft.AspNetCore.Authentication.Google": "3.1.20",
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "8.0.12",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.12",
           "Microsoft.AspNetCore.Identity.UI": "8.0.12",
@@ -642,6 +643,14 @@
           "Microsoft.AspNetCore.Authentication.Abstractions": "2.3.0",
           "Microsoft.AspNetCore.Http": "2.3.0",
           "Microsoft.AspNetCore.Http.Extensions": "2.3.0"
+        }
+      },
+      "Microsoft.AspNetCore.Authentication.Google/3.1.20": {
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.AspNetCore.Authentication.Google.dll": {
+            "assemblyVersion": "3.1.20.0",
+            "fileVersion": "3.100.2021.47242"
+          }
         }
       },
       "Microsoft.AspNetCore.Authorization/2.3.0": {
@@ -2917,6 +2926,13 @@
       "sha512": "sha512-gnLnKGawBjqBnU9fEuel3VcYAARkjyONAliaGDfMc8o8HBtfh+HrOPEoR8Xx4b2RnMb7uxdBDOvEAC7sul79ig==",
       "path": "microsoft.aspnetcore.authentication.core/2.3.0",
       "hashPath": "microsoft.aspnetcore.authentication.core.2.3.0.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Authentication.Google/3.1.20": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-V4t6QtL86dQQNnuMbluRejJMTLUe5+vYTW4zgd7jAAynzdOMoJV/n/GMRTB+8pdTaQw3b50uBmNR5ENXHLzc1g==",
+      "path": "microsoft.aspnetcore.authentication.google/3.1.20",
+      "hashPath": "microsoft.aspnetcore.authentication.google.3.1.20.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Authorization/2.3.0": {
       "type": "package",

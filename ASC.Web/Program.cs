@@ -17,6 +17,7 @@ builder.Services
 
 var app = builder.Build();
 
+
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
@@ -31,7 +32,7 @@ else
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
-
+app.UseSession(); 
 app.UseRouting();
 app.MapRazorPages();
 app.UseAuthorization();
@@ -40,9 +41,12 @@ app.MapControllerRoute(
     name: "areaRoute",
     pattern: "{area:exists}/{controller=Home}/{action=Index}");
 
+
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
+    
+
 app.MapRazorPages();
 
 using (var scope = app.Services.CreateScope())
@@ -54,6 +58,8 @@ using (var scope = app.Services.CreateScope())
         scope.ServiceProvider.GetService<IOptions<ApplicationSettings>>()
     );
 }
+
+
 
 //CreateNavigationCache
 using (var scope = app.Services.CreateScope())

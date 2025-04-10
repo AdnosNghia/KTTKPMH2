@@ -452,3 +452,6 @@ D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và t
 D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
 D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\MailKit.dll
 D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\MimeKit.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\obj\Debug\net8.0\ASC.Web.Areas.Identity.ErrorMessages.resources
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\obj\Debug\net8.0\ASC.Web.csproj.GenerateResource.cache
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Google.dll

@@ -3,107 +3,24 @@
   "WorkspaceRootPath": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|d:\\c\u00E1c n\u1ED9i d\u1EE5ng kh\u00E1c\\c\u00E1c m\u00F4n h\u1ECDc\\h\u1ECDc k\u00EC 2 n\u0103m 3\\ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\th\u1EF1c h\u00E0nh\\asc.solution\\asc.web\\areas\\identity\\pages\\account\\resetpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\identity\\pages\\account\\resetpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|d:\\c\u00E1c n\u1ED9i d\u1EE5ng kh\u00E1c\\c\u00E1c m\u00F4n h\u1ECDc\\h\u1ECDc k\u00EC 2 n\u0103m 3\\ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\th\u1EF1c h\u00E0nh\\asc.solution\\asc.web\\areas\\accounts\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\accounts\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/WIN_3QH3S84AQ8R/ASC3/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|d:\\c\u00E1c n\u1ED9i d\u1EE5ng kh\u00E1c\\c\u00E1c m\u00F4n h\u1ECDc\\h\u1ECDc k\u00EC 2 n\u0103m 3\\ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\th\u1EF1c h\u00E0nh\\asc.solution\\asc.web\\areas\\identity\\pages\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\identity\\pages\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|d:\\c\u00E1c n\u1ED9i d\u1EE5ng kh\u00E1c\\c\u00E1c m\u00F4n h\u1ECDc\\h\u1ECDc k\u00EC 2 n\u0103m 3\\ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\th\u1EF1c h\u00E0nh\\asc.solution\\asc.web\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|d:\\c\u00E1c n\u1ED9i d\u1EE5ng kh\u00E1c\\c\u00E1c m\u00F4n h\u1ECDc\\h\u1ECDc k\u00EC 2 n\u0103m 3\\ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\th\u1EF1c h\u00E0nh\\asc.solution\\asc.web\\areas\\identity\\pages\\account\\initiateresetpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\identity\\pages\\account\\initiateresetpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|d:\\c\u00E1c n\u1ED9i d\u1EE5ng kh\u00E1c\\c\u00E1c m\u00F4n h\u1ECDc\\h\u1ECDc k\u00EC 2 n\u0103m 3\\ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\th\u1EF1c h\u00E0nh\\asc.solution\\asc.web\\areas\\identity\\pages\\account\\resetpasswordemailconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\identity\\pages\\account\\resetpasswordemailconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|d:\\c\u00E1c n\u1ED9i d\u1EE5ng kh\u00E1c\\c\u00E1c m\u00F4n h\u1ECDc\\h\u1ECDc k\u00EC 2 n\u0103m 3\\ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\th\u1EF1c h\u00E0nh\\asc.solution\\asc.web\\areas\\identity\\pages\\account\\resetpasswordemailconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\identity\\pages\\account\\resetpasswordemailconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|d:\\c\u00E1c n\u1ED9i d\u1EE5ng kh\u00E1c\\c\u00E1c m\u00F4n h\u1ECDc\\h\u1ECDc k\u00EC 2 n\u0103m 3\\ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\th\u1EF1c h\u00E0nh\\asc.solution\\asc.web\\areas\\identity\\pages\\account\\initiateresetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\identity\\pages\\account\\initiateresetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|d:\\c\u00E1c n\u1ED9i d\u1EE5ng kh\u00E1c\\c\u00E1c m\u00F4n h\u1ECDc\\h\u1ECDc k\u00EC 2 n\u0103m 3\\ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\th\u1EF1c h\u00E0nh\\asc.solution\\asc.web\\areas\\identity\\pages\\account\\resetpasswordconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\identity\\pages\\account\\resetpasswordconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|d:\\c\u00E1c n\u1ED9i d\u1EE5ng kh\u00E1c\\c\u00E1c m\u00F4n h\u1ECDc\\h\u1ECDc k\u00EC 2 n\u0103m 3\\ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\th\u1EF1c h\u00E0nh\\asc.solution\\asc.web\\areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|d:\\c\u00E1c n\u1ED9i d\u1EE5ng kh\u00E1c\\c\u00E1c m\u00F4n h\u1ECDc\\h\u1ECDc k\u00EC 2 n\u0103m 3\\ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\th\u1EF1c h\u00E0nh\\asc.solution\\asc.web\\areas\\accounts\\views\\account\\customers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\accounts\\views\\account\\customers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|d:\\c\u00E1c n\u1ED9i d\u1EE5ng kh\u00E1c\\c\u00E1c m\u00F4n h\u1ECDc\\h\u1ECDc k\u00EC 2 n\u0103m 3\\ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\th\u1EF1c h\u00E0nh\\asc.solution\\asc.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|d:\\c\u00E1c n\u1ED9i d\u1EE5ng kh\u00E1c\\c\u00E1c m\u00F4n h\u1ECDc\\h\u1ECDc k\u00EC 2 n\u0103m 3\\ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\th\u1EF1c h\u00E0nh\\asc.solution\\asc.web\\areas\\identity\\pages\\account\\resetpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\identity\\pages\\account\\resetpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|d:\\c\u00E1c n\u1ED9i d\u1EE5ng kh\u00E1c\\c\u00E1c m\u00F4n h\u1ECDc\\h\u1ECDc k\u00EC 2 n\u0103m 3\\ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\th\u1EF1c h\u00E0nh\\asc.solution\\asc.web\\areas\\accounts\\models\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\accounts\\models\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|d:\\c\u00E1c n\u1ED9i d\u1EE5ng kh\u00E1c\\c\u00E1c m\u00F4n h\u1ECDc\\h\u1ECDc k\u00EC 2 n\u0103m 3\\ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\th\u1EF1c h\u00E0nh\\asc.solution\\asc.web\\services\\emailsenderadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\services\\emailsenderadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|d:\\c\u00E1c n\u1ED9i d\u1EE5ng kh\u00E1c\\c\u00E1c m\u00F4n h\u1ECDc\\h\u1ECDc k\u00EC 2 n\u0103m 3\\ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\th\u1EF1c h\u00E0nh\\asc.solution\\asc.web\\services\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\services\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|d:\\c\u00E1c n\u1ED9i d\u1EE5ng kh\u00E1c\\c\u00E1c m\u00F4n h\u1ECDc\\h\u1ECDc k\u00EC 2 n\u0103m 3\\ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\th\u1EF1c h\u00E0nh\\asc.solution\\asc.web\\services\\authmessagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\services\\authmessagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|d:\\c\u00E1c n\u1ED9i d\u1EE5ng kh\u00E1c\\c\u00E1c m\u00F4n h\u1ECDc\\h\u1ECDc k\u00EC 2 n\u0103m 3\\ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\th\u1EF1c h\u00E0nh\\asc.solution\\asc.web\\services\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\services\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|d:\\c\u00E1c n\u1ED9i d\u1EE5ng kh\u00E1c\\c\u00E1c m\u00F4n h\u1ECDc\\h\u1ECDc k\u00EC 2 n\u0103m 3\\ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\th\u1EF1c h\u00E0nh\\asc.solution\\asc.web\\wwwroot\\js\\init.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\wwwroot\\js\\init.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|d:\\c\u00E1c n\u1ED9i d\u1EE5ng kh\u00E1c\\c\u00E1c m\u00F4n h\u1ECDc\\h\u1ECDc k\u00EC 2 n\u0103m 3\\ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\th\u1EF1c h\u00E0nh\\asc.solution\\asc.web\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|d:\\c\u00E1c n\u1ED9i d\u1EE5ng kh\u00E1c\\c\u00E1c m\u00F4n h\u1ECDc\\h\u1ECDc k\u00EC 2 n\u0103m 3\\ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\th\u1EF1c h\u00E0nh\\asc.solution\\asc.web\\views\\shared\\_securelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\views\\shared\\_securelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|d:\\c\u00E1c n\u1ED9i d\u1EE5ng kh\u00E1c\\c\u00E1c m\u00F4n h\u1ECDc\\h\u1ECDc k\u00EC 2 n\u0103m 3\\ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\th\u1EF1c h\u00E0nh\\asc.solution\\asc.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|d:\\c\u00E1c n\u1ED9i d\u1EE5ng kh\u00E1c\\c\u00E1c m\u00F4n h\u1ECDc\\h\u1ECDc k\u00EC 2 n\u0103m 3\\ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\th\u1EF1c h\u00E0nh\\asc.solution\\asc.web\\services\\ismssender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\services\\ismssender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|d:\\c\u00E1c n\u1ED9i d\u1EE5ng kh\u00E1c\\c\u00E1c m\u00F4n h\u1ECDc\\h\u1ECDc k\u00EC 2 n\u0103m 3\\ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\th\u1EF1c h\u00E0nh\\asc.solution\\asc.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|d:\\c\u00E1c n\u1ED9i d\u1EE5ng kh\u00E1c\\c\u00E1c m\u00F4n h\u1ECDc\\h\u1ECDc k\u00EC 2 n\u0103m 3\\ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\th\u1EF1c h\u00E0nh\\asc.solution\\asc.web\\views\\shared\\components\\leftnavigation\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\views\\shared\\components\\leftnavigation\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|d:\\c\u00E1c n\u1ED9i d\u1EE5ng kh\u00E1c\\c\u00E1c m\u00F4n h\u1ECDc\\h\u1ECDc k\u00EC 2 n\u0103m 3\\ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\th\u1EF1c h\u00E0nh\\asc.solution\\asc.web\\data\\inavigationcacheoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\data\\inavigationcacheoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|d:\\c\u00E1c n\u1ED9i d\u1EE5ng kh\u00E1c\\c\u00E1c m\u00F4n h\u1ECDc\\h\u1ECDc k\u00EC 2 n\u0103m 3\\ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\th\u1EF1c h\u00E0nh\\asc.solution\\asc.web\\navigation\\navigation.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\navigation\\navigation.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|d:\\c\u00E1c n\u1ED9i d\u1EE5ng kh\u00E1c\\c\u00E1c m\u00F4n h\u1ECDc\\h\u1ECDc k\u00EC 2 n\u0103m 3\\ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\th\u1EF1c h\u00E0nh\\asc.solution\\asc.web\\wwwroot\\js\\materialize.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\wwwroot\\js\\materialize.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|d:\\c\u00E1c n\u1ED9i d\u1EE5ng kh\u00E1c\\c\u00E1c m\u00F4n h\u1ECDc\\h\u1ECDc k\u00EC 2 n\u0103m 3\\ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\th\u1EF1c h\u00E0nh\\asc.solution\\asc.web\\areas\\accounts\\models\\customerregistrationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\accounts\\models\\customerregistrationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -117,316 +34,70 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Program.cs",
               "RelativeDocumentMoniker": "ASC.Web\\Program.cs",
               "ToolTip": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Program.cs",
               "RelativeToolTip": "ASC.Web\\Program.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAcwEAAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-15T05:49:12.669Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "dbo.AspNetUsers [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/WIN_3QH3S84AQ8R/ASC3/True/SqlTable/dbo.AspNetUsers.sql",
-              "ToolTip": "dbo.AspNetUsers [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-03-19T15:53:02.394Z",
+              "Title": "Customers.cshtml",
+              "DocumentMoniker": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Areas\\Accounts\\Views\\Account\\Customers.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Accounts\\Views\\Account\\Customers.cshtml",
+              "ToolTip": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Areas\\Accounts\\Views\\Account\\Customers.cshtml",
+              "RelativeToolTip": "ASC.Web\\Areas\\Accounts\\Views\\Account\\Customers.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAE0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T14:34:14.634Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ResetPasswordConfirmation.cshtml",
-              "DocumentMoniker": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml",
-              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml",
-              "ToolTip": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml",
-              "RelativeToolTip": "ASC.Web\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-17T02:50:34.939Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ResetPassword.cshtml",
-              "DocumentMoniker": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
-              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
-              "ToolTip": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
-              "RelativeToolTip": "ASC.Web\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-17T05:24:25.868Z",
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Areas\\Accounts\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Accounts\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Areas\\Accounts\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ASC.Web\\Areas\\Accounts\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T14:27:25.881Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ForgotPassword.cshtml",
-              "DocumentMoniker": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
-              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
-              "ToolTip": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
-              "RelativeToolTip": "ASC.Web\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAIwBsAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-17T12:32:56.541Z"
+              "Title": "CustomerViewModel.cs",
+              "DocumentMoniker": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Areas\\Accounts\\Models\\CustomerViewModel.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Accounts\\Models\\CustomerViewModel.cs",
+              "ToolTip": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Areas\\Accounts\\Models\\CustomerViewModel.cs",
+              "RelativeToolTip": "ASC.Web\\Areas\\Accounts\\Models\\CustomerViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T14:25:04.289Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "InitiateResetPassword.cshtml.cs",
-              "DocumentMoniker": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Areas\\Identity\\Pages\\Account\\InitiateResetPassword.cshtml.cs",
-              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Identity\\Pages\\Account\\InitiateResetPassword.cshtml.cs",
-              "ToolTip": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Areas\\Identity\\Pages\\Account\\InitiateResetPassword.cshtml.cs",
-              "RelativeToolTip": "ASC.Web\\Areas\\Identity\\Pages\\Account\\InitiateResetPassword.cshtml.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAUwBYAAAAbAAAAAAAAAA==",
+              "Title": "CustomerRegistrationViewModel.cs",
+              "DocumentMoniker": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Areas\\Accounts\\Models\\CustomerRegistrationViewModel.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Accounts\\Models\\CustomerRegistrationViewModel.cs",
+              "ToolTip": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Areas\\Accounts\\Models\\CustomerRegistrationViewModel.cs",
+              "RelativeToolTip": "ASC.Web\\Areas\\Accounts\\Models\\CustomerRegistrationViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T16:30:01.437Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ResetPasswordEmailConfirmation.cshtml",
-              "DocumentMoniker": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Areas\\Identity\\Pages\\Account\\ResetPasswordEmailConfirmation.cshtml",
-              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Identity\\Pages\\Account\\ResetPasswordEmailConfirmation.cshtml",
-              "ToolTip": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Areas\\Identity\\Pages\\Account\\ResetPasswordEmailConfirmation.cshtml",
-              "RelativeToolTip": "ASC.Web\\Areas\\Identity\\Pages\\Account\\ResetPasswordEmailConfirmation.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-17T16:03:16.403Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ResetPasswordEmailConfirmation.cshtml.cs",
-              "DocumentMoniker": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Areas\\Identity\\Pages\\Account\\ResetPasswordEmailConfirmation.cshtml.cs",
-              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Identity\\Pages\\Account\\ResetPasswordEmailConfirmation.cshtml.cs",
-              "ToolTip": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Areas\\Identity\\Pages\\Account\\ResetPasswordEmailConfirmation.cshtml.cs",
-              "RelativeToolTip": "ASC.Web\\Areas\\Identity\\Pages\\Account\\ResetPasswordEmailConfirmation.cshtml.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAwwDIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T16:29:06.845Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "InitiateResetPassword.cshtml",
-              "DocumentMoniker": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Areas\\Identity\\Pages\\Account\\InitiateResetPassword.cshtml",
-              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Identity\\Pages\\Account\\InitiateResetPassword.cshtml",
-              "ToolTip": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Areas\\Identity\\Pages\\Account\\InitiateResetPassword.cshtml",
-              "RelativeToolTip": "ASC.Web\\Areas\\Identity\\Pages\\Account\\InitiateResetPassword.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-17T16:29:40.441Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ForgotPassword.cshtml.cs",
-              "DocumentMoniker": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
-              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
-              "ToolTip": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
-              "RelativeToolTip": "ASC.Web\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAkwAYAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T12:37:02.178Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ResetPasswordConfirmation.cshtml.cs",
-              "DocumentMoniker": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml.cs",
-              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml.cs",
-              "ToolTip": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml.cs",
-              "RelativeToolTip": "ASC.Web\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T02:50:46.218Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ResetPassword.cshtml.cs",
-              "DocumentMoniker": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
-              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
-              "ToolTip": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
-              "RelativeToolTip": "ASC.Web\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
-              "ViewState": "AgIAAFgAAAAAAAAAAADwv1oAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T04:54:21.921Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "EmailSenderAdapter.cs",
-              "DocumentMoniker": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Services\\EmailSenderAdapter.cs",
-              "RelativeDocumentMoniker": "ASC.Web\\Services\\EmailSenderAdapter.cs",
-              "ToolTip": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Services\\EmailSenderAdapter.cs",
-              "RelativeToolTip": "ASC.Web\\Services\\EmailSenderAdapter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T13:17:47.635Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Services\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "ASC.Web\\Services\\DependencyInjection.cs",
-              "ToolTip": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Services\\DependencyInjection.cs",
-              "RelativeToolTip": "ASC.Web\\Services\\DependencyInjection.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAQwCwAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T05:05:44.296Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "AuthMessageSender.cs",
-              "DocumentMoniker": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Services\\AuthMessageSender.cs",
-              "RelativeDocumentMoniker": "ASC.Web\\Services\\AuthMessageSender.cs",
-              "ToolTip": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Services\\AuthMessageSender.cs",
-              "RelativeToolTip": "ASC.Web\\Services\\AuthMessageSender.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBMAAABWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T04:00:41.231Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IEmailSender.cs",
-              "DocumentMoniker": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Services\\IEmailSender.cs",
-              "RelativeDocumentMoniker": "ASC.Web\\Services\\IEmailSender.cs",
-              "ToolTip": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Services\\IEmailSender.cs",
-              "RelativeToolTip": "ASC.Web\\Services\\IEmailSender.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T05:54:44.106Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "init.js",
-              "DocumentMoniker": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\wwwroot\\js\\init.js",
-              "RelativeDocumentMoniker": "ASC.Web\\wwwroot\\js\\init.js",
-              "ToolTip": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\wwwroot\\js\\init.js",
-              "RelativeToolTip": "ASC.Web\\wwwroot\\js\\init.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAswBMAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-03-17T12:45:17.459Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ToolTip": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeToolTip": "ASC.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-17T12:47:24.687Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "_SecureLayout.cshtml",
-              "DocumentMoniker": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Views\\Shared\\_SecureLayout.cshtml",
-              "RelativeDocumentMoniker": "ASC.Web\\Views\\Shared\\_SecureLayout.cshtml",
-              "ToolTip": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Views\\Shared\\_SecureLayout.cshtml",
-              "RelativeToolTip": "ASC.Web\\Views\\Shared\\_SecureLayout.cshtml",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAUwHoAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T09:32:08.666Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\appsettings.json",
-              "RelativeDocumentMoniker": "ASC.Web\\appsettings.json",
-              "ToolTip": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\appsettings.json",
-              "RelativeToolTip": "ASC.Web\\appsettings.json",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-17T10:15:30.16Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ISmsSender.cs",
-              "DocumentMoniker": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Services\\ISmsSender.cs",
-              "RelativeDocumentMoniker": "ASC.Web\\Services\\ISmsSender.cs",
-              "ToolTip": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Services\\ISmsSender.cs",
-              "RelativeToolTip": "ASC.Web\\Services\\ISmsSender.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T04:02:45.486Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ASC.Web\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ASC.Web\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAAAGIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-17T06:08:28.251Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Views\\Shared\\Components\\LeftNavigation\\Default.cshtml",
-              "RelativeDocumentMoniker": "ASC.Web\\Views\\Shared\\Components\\LeftNavigation\\Default.cshtml",
-              "ToolTip": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Views\\Shared\\Components\\LeftNavigation\\Default.cshtml",
-              "RelativeToolTip": "ASC.Web\\Views\\Shared\\Components\\LeftNavigation\\Default.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAmwD8AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T10:32:22.345Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "InavigationCacheOperations.cs",
-              "DocumentMoniker": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Data\\InavigationCacheOperations.cs",
-              "RelativeDocumentMoniker": "ASC.Web\\Data\\InavigationCacheOperations.cs",
-              "ToolTip": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Data\\InavigationCacheOperations.cs",
-              "RelativeToolTip": "ASC.Web\\Data\\InavigationCacheOperations.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T14:52:34.185Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Navigation.json",
-              "DocumentMoniker": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Navigation\\Navigation.json",
-              "RelativeDocumentMoniker": "ASC.Web\\Navigation\\Navigation.json",
-              "ToolTip": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Navigation\\Navigation.json",
-              "RelativeToolTip": "ASC.Web\\Navigation\\Navigation.json",
-              "ViewState": "AgIAAHEAAAAAAAAAAAAmwI4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-16T10:09:57.363Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "materialize.js",
-              "DocumentMoniker": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\wwwroot\\js\\materialize.js",
-              "RelativeDocumentMoniker": "ASC.Web\\wwwroot\\js\\materialize.js",
-              "ToolTip": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\wwwroot\\js\\materialize.js",
-              "RelativeToolTip": "ASC.Web\\wwwroot\\js\\materialize.js",
-              "ViewState": "AgIAAHMCAAAAAAAAAAASwH4CAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-03-16T15:17:30.254Z"
+              "WhenOpened": "2025-04-10T14:23:48.738Z",
+              "EditorCaption": ""
             }
           ]
         }
