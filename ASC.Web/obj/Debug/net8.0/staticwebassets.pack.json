@@ -65,8 +65,16 @@
       "PackagePath": "staticwebassets\\images\\bground6.jpg"
     },
     {
+      "Id": "D:\\Các Nội dụng khác\\Các môn học\\Học kì 2 năm 3\\Kiến trúc và thiết kê phần mềm\\Thực hành\\ASC.Solution\\ASC.Web\\wwwroot\\images\\green_tick.png",
+      "PackagePath": "staticwebassets\\images\\green_tick.png"
+    },
+    {
       "Id": "D:\\Các Nội dụng khác\\Các môn học\\Học kì 2 năm 3\\Kiến trúc và thiết kê phần mềm\\Thực hành\\ASC.Solution\\ASC.Web\\wwwroot\\images\\logo.jpg",
       "PackagePath": "staticwebassets\\images\\logo.jpg"
+    },
+    {
+      "Id": "D:\\Các Nội dụng khác\\Các môn học\\Học kì 2 năm 3\\Kiến trúc và thiết kê phần mềm\\Thực hành\\ASC.Solution\\ASC.Web\\wwwroot\\images\\red_cross.png",
+      "PackagePath": "staticwebassets\\images\\red_cross.png"
     },
     {
       "Id": "D:\\Các Nội dụng khác\\Các môn học\\Học kì 2 năm 3\\Kiến trúc và thiết kê phần mềm\\Thực hành\\ASC.Solution\\ASC.Web\\wwwroot\\js\\init.js",

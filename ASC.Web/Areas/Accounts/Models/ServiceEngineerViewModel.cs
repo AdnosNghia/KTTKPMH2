@@ -4,8 +4,7 @@ namespace ASC.Web.Areas.Accounts.Models
 {
     public class ServiceEngineerViewModel
     {
-        public List<IdentityUser> ServiceEngineers { get; set; } // Lưu trữ danh sách nhân viên
-        public ServiceEngineerRegistrationViewModel Registration { get; set; } // Lưu trữ nhân viên thêm mới hoặc cập nhật
+        public List<IdentityUser>? ServiceEngineers { get; set; } // Luu danh sach nhan vien
+        public ServiceEngineerRegistrationViewModel Registration { get; set; } // Luu Tru nhan vien them moi hoac cap nhat
     }
 }
-

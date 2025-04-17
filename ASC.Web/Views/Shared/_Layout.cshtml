@@ -15,14 +15,14 @@
             <ul class="right hide-on-med-and-down">
                 @if (SignInManager.IsSignedIn(User))
                 {
-                    <li><a href="#">Xin chào @UserManager.GetUserName(User)!</a></li>
-                    <li><a href="/Identity/Account/Logout">Logout</a></li>
+                    <li><a href="#" class="black-text">Xin chào @UserManager.GetUserName(User)!</a></li>
+                    <li><a href="/Identity/Account/Logout" class="black-text">Logout</a></li>
                 }
                 else
                 {
-                    <li><a href="/Identity/Account/Login">Login</a></li>
+                    <li><a href="/Identity/Account/Login" class="black-text">Login</a></li>
                 }
-                <li><a href="#">Contact</a></li>
+                <li><a href="#" class="black-text">Contact</a></li>
             </ul>
             <ul id="nav-mobile" class="sidenav">
                 @if (SignInManager.IsSignedIn(User))

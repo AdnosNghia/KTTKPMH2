@@ -1,14 +1,113 @@
-/* Custom Stylesheet */
+﻿﻿ /* Custom Stylesheet */
 /**
  * Use this file to override Materialize files so you can update
  * the core Materialize files in the future
  *
  * Made By MaterializeCSS.com
  */
+nav ul a,
+nav .brand-logo {
+    color: #444;
+}
 
-/*login*/
+p {
+    line-height: 2rem;
+}
+
+.sidenav-trigger {
+    color: #26a69a;
+}
+
+.parallax-container {
+    min-height: 380px;
+    line-height: 0;
+    height: auto;
+    color: rgba(255,255,255,.9);
+}
+
+    .parallax-container .section {
+        width: 100%;
+    }
+
+@media only screen and (max-width : 992px) {
+    .parallax-container .section {
+        position: absolute;
+        top: 40%;
+    }
+
+    #index-banner .section {
+        top: 10%;
+    }
+}
+
+@media only screen and (max-width : 600px) {
+    #index-banner .section {
+        top: 0;
+    }
+}
+
+.icon-block {
+    padding: 0 15px;
+}
+
+    .icon-block .material-icons {
+        font-size: inherit;
+    }
+
+footer.page-footer {
+    margin: 0;
+}
+
+.padding-0px {
+    padding: 0px !important;
+}
+
+.nav-wrapper .brand-logo img {
+    height: 64px;
+}
+
+@media(max-width:600px) {
+    .nav-wrapper .brand-logo img {
+        height: 56px
+    }
+    /* Adjusting padding to display Side Nav */
+    header.secureLayout, main.secureLayout, footer.secureLayout {
+        padding-left: 300px;
+    }
+
+    @media only screen and (max-width: 992px) {
+        header.secureLayout, main.secureLayout, footer.secureLayout {
+            padding-left: 0;
+        }
+    }
+
+    /* Selected Menu Item style*/
+    .side-nav li.active {
+        background-color: #f5f5f5;
+    }
+
+    .margin-bottom-0px {
+        margin-bottom: 0px;
+    }
+}
+
+header.secureLayout, main.secureLayout, footer.secureLayout {
+    padding-left: 300px;
+}
+
+@media only screen and (max-width: 992px) {
+    header.secureLayout, main.secureLayout, footer.secureLayout {
+        padding-left: 0;
+    }
+}
+
+/* Selected Menu Item style*/
+.side-nav li.active {
+    background-color: #f5f5f5;
+}
+
 .padding-left-10px {
-    padding-left: 10px; 
+    padding-left: 10px;
 }
 
 .input-field .input-validation-error {
@@ -30,7 +129,7 @@
 }
 
 .cursor-hand {
-    cursor: pointer
+    cursor: pointer;
 }
 
 .padding-left-20px {
@@ -46,113 +145,5 @@
 }
 
 .margin-bottom-50px {
-    margin-bottom: 50px;
+    margin-bottom: 50px
 }
-
-/*login*/
-
-nav ul a,
-nav .brand-logo {
-  color: #444;
-}
-
-p {
-  line-height: 2rem;
-}
-
-.sidenav-trigger {
-  color: #26a69a;
-}
-
-.parallax-container {
-  min-height: 380px;
-  line-height: 0;
-  height: auto;
-  color: rgba(255,255,255,.9);
-}
-  .parallax-container .section {
-    width: 100%;
-  }
-
-@media only screen and (max-width : 992px) {
-  .parallax-container .section {
-    position: absolute;
-    top: 40%;
-  }
-  #index-banner .section {
-    top: 10%;
-  }
-}
-
-@media only screen and (max-width : 600px) {
-  #index-banner .section {
-    top: 0;
-  }
-}
-
-.icon-block {
-  padding: 0 15px;
-}
-.icon-block .material-icons {
-  font-size: inherit;
-}
-
-footer.page-footer {
-  margin: 0;
-}
-
-/* Removes padding */
-.padding-0px {
-    padding: 0px !important;
-}
-
-/* Make logo fit in the header */
-.nav-wrapper .brand-logo img {
-    height: 64px;
-}
-
-@media (max-width: 600px) {
-    .nav-wrapper .brand-logo img {
-        height: 56px;
-    }
-}
-
-/* Adjusting padding to display Side Nav */
-header.secureLayout, main.secureLayout, footer.secureLayout {
-    padding-left: 300px;
-}
-
-@media only screen and (max-width: 992px) {
-    header.secureLayout, main.secureLayout, footer.secureLayout {
-        padding-left: 0;
-    }
-}
-
-/* Selected Menu Item style*/
-.side-nav li.active {
-    background-color: #f5f5f5;
-}
-
-.margin-bottom-0px {
-    margin-bottom: 0px;
-}
-body {
-    display: flex;
-    min-height: 100vh;
-    flex-direction: column;
-}
-
-main {
-    flex: 1 0 auto;
-}
-
-.sidenav-fixed {
-    height: calc(100% - 64px);
-    top: 64px;
-}
-
-@media only screen and (max-width : 992px) {
-    .sidenav-fixed {
-        height: 100%;
-        top: 0;
-    }

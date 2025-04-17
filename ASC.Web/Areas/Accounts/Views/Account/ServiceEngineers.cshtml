@@ -1,124 +1,128 @@
-﻿@using Microsoft.AspNetCore.Identity
-@using System.Security.Claims
-@model ASC.Web.Areas.Accounts.Models.ServiceEngineerViewModel
-@inject UserManager<IdentityUser> userManager;
+﻿﻿ @using Microsoft.AspNetCore.Identity;
+ @using System.Security.Claims;
+ @model ASC.Web.Areas.Accounts.Models.ServiceEngineerViewModel
+ @inject UserManager<IdentityUser> userManager;
 
 @{
     Layout = "_SecureLayout";
 }
-
-<div class="row">
-    <div class="row z-depth-3">
-        <div class="col s12 padding-left-20px padding-right-20px">
-            <div class="row z-depth-3">
-                <div class="section white-text padding-left-10px blue-grey lighten-1">
-                    <h5>Service Engineers</h5>
-                </div>
-            </div>
-            <div class="divider"></div>
-            <div class="col s12 padding-bottom-10px">
-                @if (Model.ServiceEngineers == null || !Model.ServiceEngineers.Any())
-                {
-                    // In case of No records, display no records message
-                    <div class="card blue-grey lighten-5">
-                        <div class="card-content white-text">
-                            <span class="card-title">No Service Engineers!!</span>
-                            <p>No Service Engineers found, please add a Service Engineer to system.</p>
-                        </div>
-                    </div>
-                }
-                else
-                {
-                    // Display List of Service Engineers
-                    <table class="highlight centered">
-                        <thead>
-                            <tr>
-                                <th>Email</th>
-                                <th>UserName</th>
-                                <th>IsActive</th>
-                                <th>Actions</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            @foreach (var user in Model.ServiceEngineers)
-                            {
-                                <tr>
-                                    <td>@user.Email</td>
-                                    <td>@user.UserName</td>
-                                    @{
-                                        var identity = await userManager.GetClaimsAsync(user);
-                                    }
-                                    <td>
-                                        <img src="@(Boolean.Parse(identity.SingleOrDefault(p => p.Type == "IsActive").Value) ? "/images/green_tick.png" : "/images/red_cross.png")" />
-                                    </td>
-                                    <td>
-                                        <i class="small material-icons edit cursor-hand">mode_edit</i>
-                                    </td>
-                                </tr>
-                            }
-                        </tbody>
-                    </table>
-                }
+<div>
+    <div class="row"></div>
+    <div class="row padding-left-20px padding-right-20px">
+        <div class="row z-depth-3">
+            <div class="section white-text padding-left-10px blue-grey lighten-1">
+                <h5>Users</h5>
             </div>
         </div>
-    </div>
-</div>
 
-<div class="row">
-    <div class="row z-depth-3">
-        <div class="col s12 padding-0px">
-            <div class="row z-depth-3">
+        <div class="divider"></div>
+
+        <div class="col s12 padding-bottom-15px">
+            @if (Model.ServiceEngineers != null)
+            {
+                <table class="highlight centered" id="tblServiceEngineers">
+                    <thead>
+                        <tr>
+                            <th data-field="Email">Email</th>
+                            <th data-field="UserName">Name</th>
+                            <th data-field="IsActive">Is Active</th>
+                            <th data-field="IsActiveImg">Is Active</th>
+                            <th data-field="Actions">Edit Users</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var user in Model.ServiceEngineers)
+                        {
+                            var identity = await userManager.GetClaimsAsync(user);
+                            <tr>
+                                <td>@user.Email</td>
+                                <td>@user.UserName</td>
+                                <td>@(Boolean.Parse(identity.SingleOrDefault(p => p.Type == "IsActive")?.Value))</td>
+                                <td>
+                                    <img src="@(Boolean.Parse(identity.SingleOrDefault(p => p.Type == "IsActive")?.Value) ? "/images/green_tick.png" : "/images/red_cross.png")" />
+                                </td>
+                                <td>
+                                    <i class="small material-icons edit cursor-hand">
+                                        mode_edit
+                                    </i>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            }
+            else
+            {
+                <div class="card blue-grey lighten-1">
+                    <div class="card-content white-text">
+                        <span class="card-title">No Service Engineers!!!</span>
+                        <p>No Service Engineers found, please add a Service Engineer to system.</p>
+                    </div>
+                </div>
+            }
+        </div>
+        <div class="row"></div>
+        @* Details Section *@
+        <div class="row z-depth-3">
+            <div class="col s12 padding-0px">
                 <div class="section white-text padding-left-10px blue-grey lighten-1">
                     <h5>Service Engineer Details</h5>
                 </div>
-            </div>
-            <div class="divider"></div>
-            <div class="col s12 padding-0px">
-                <form asp-controller="Account" asp-action="ServiceEngineers" method="post" class="col s12" id="formUser">
-                    @Html.AntiForgeryToken()
+                <div class="divider"></div>
+
+                <form asp-controller="Account" asp-action="ServiceEngineers" method="post" class="col s12" id="fromUser">
                     <input type="hidden" asp-for="Registration.IsEdit" />
-                    <input type="hidden" asp-for="Registration.Email" id="Registration_Email" />
+                    <input type="hidden" asp-for="Registration.Email" />
                     <div class="input-field col s4">
-                        <input asp-for="Registration.Email" id="Input_Registration_Email" class="validate" required />
-                        <label for="Input_Registration_Email">Email</label>
+                        <input asp-for="Registration.Email" id="Input_Registration_Email" />
+                        <label asp-for="Registration.Email">Email</label> <!-- Chú thích cho trường Email -->
                     </div>
+
                     <div class="input-field col s4">
-                        <input asp-for="Registration.UserName" class="validate" required />
-                        <label for="Registration.UserName">UserName</label>
+                        <input asp-for="Registration.UserName" id="Input_Registration_UserName" />
+                        <label asp-for="Registration.UserName">UserName</label> <!-- Chú thích cho trường UserName -->
                     </div>
+
+
                     <div class="input-field col s4">
-                        <input asp-for="Registration.Password" class="validate" required />
-                        <label for="Registration.Password">Password</label>
+                        <input asp-for="Registration.Password" class="validate" id="Input_Registration_Password" />
+                        <label asp-for="Registration.Password"></label>
                     </div>
+
                     <div class="input-field col s4">
-                        <input asp-for="Registration.ConfirmPassword" class="validate" required />
-                        <label for="Registration.ConfirmPassword">ConfirmPassword</label>
+                        <input asp-for="Registration.ConfirmPassword" class="validate" id="Input_Registration_ConfirmPassword" />
+                        <label asp-for="Registration.ConfirmPassword"></label> <!-- Chú thích cho trường Confirm Password -->
                     </div>
-                    <div class="col s4">
-                        <label>Is Active</label>
+
+
+                    <div class="input-field col s4">
                         <div class="switch">
                             <label>
-                                Off
-                                <input asp-for="Registration.IsActive" type="checkbox">
+                                Is Active
+                                <input asp-for="Registration.IsActive" type="checkbox" class="validate" />
                                 <span class="lever"></span>
-                                On
                             </label>
                         </div>
                     </div>
-                    <div class="input-field col s2 right-align">
-                        <button class="btn waves-effect waves-light btnSubmit" type="submit" name="action" value="Create">
+
+                    <div class="input-field col s4 right-align">
+                        <button class="btn waves-effect waves-light btnSubmit" type="submit" name="action">
                             Create
                             <i class="material-icons right">send</i>
                         </button>
-                        <button class="btn waves-effect waves-light red lighten-1" type="reset" name="action" value="Reset">Reset</button>
+                        <button class="btn waves-effect waves-light reset red lighten-1" type="button" name="action">
+                            Reset
+                        </button>
                     </div>
-                    <div asp-validation-summary="All" class="row col s12 right-align"></div>
+                    <div class="row s12 right-align" asp-validation-summary="All"></div>
                 </form>
-
             </div>
+            <div class="row"></div>
         </div>
     </div>
 </div>
+
+
 @section Scripts {
     <script>
         $(document).ready(function () {
@@ -156,7 +160,7 @@
                 $('#Registration_IsEdit').val('True');
                 $('#Input_Registration_Email').val(user[0]);
                 $('#Input_Registration_Email').attr('disabled', 'disabled');
-                $('#Registration_UserName').val(user[1]);
+                $('#Input_Registration_UserName').val(user[1]);
                 $('#Registration_UserName').addClass('valid');
                 $('#Registration_IsActive').prop('checked', user[2] === 'True' ? true : false);
                 $('.btnSubmit').text('Save');

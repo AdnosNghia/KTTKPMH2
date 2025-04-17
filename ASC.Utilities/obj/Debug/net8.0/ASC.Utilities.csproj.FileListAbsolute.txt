@@ -1,13 +1,13 @@
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Utilities\bin\Debug\net8.0\ASC.Utilities.deps.json
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Utilities\bin\Debug\net8.0\ASC.Utilities.dll
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Utilities\bin\Debug\net8.0\ASC.Utilities.pdb
 D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.csproj.AssemblyReference.cache
 D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.GeneratedMSBuildEditorConfig.editorconfig
 D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.AssemblyInfoInputs.cache
 D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.AssemblyInfo.cs
 D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.csproj.CoreCompileInputs.cache
-D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Utilities\bin\Debug\net8.0\ASC.Utilities.deps.json
-D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Utilities\bin\Debug\net8.0\ASC.Utilities.dll
-D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Utilities\bin\Debug\net8.0\ASC.Utilities.pdb
+D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.sourcelink.json
 D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.dll
 D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\refint\ASC.Utilities.dll
 D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.pdb
 D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ref\ASC.Utilities.dll
-D:\Các Nội dụng khác\Các môn học\Học kì 2 năm 3\Kiến trúc và thiết kê phần mềm\Thực hành\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.sourcelink.json

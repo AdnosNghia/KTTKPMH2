@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|d:\\c\u00E1c n\u1ED9i d\u1EE5ng kh\u00E1c\\c\u00E1c m\u00F4n h\u1ECDc\\h\u1ECDc k\u00EC 2 n\u0103m 3\\ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\th\u1EF1c h\u00E0nh\\asc.solution\\asc.web\\services\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\services\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|d:\\c\u00E1c n\u1ED9i d\u1EE5ng kh\u00E1c\\c\u00E1c m\u00F4n h\u1ECDc\\h\u1ECDc k\u00EC 2 n\u0103m 3\\ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\th\u1EF1c h\u00E0nh\\asc.solution\\asc.web\\areas\\accounts\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\accounts\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|d:\\c\u00E1c n\u1ED9i d\u1EE5ng kh\u00E1c\\c\u00E1c m\u00F4n h\u1ECDc\\h\u1ECDc k\u00EC 2 n\u0103m 3\\ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\th\u1EF1c h\u00E0nh\\asc.solution\\asc.web\\areas\\accounts\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\accounts\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|d:\\c\u00E1c n\u1ED9i d\u1EE5ng kh\u00E1c\\c\u00E1c m\u00F4n h\u1ECDc\\h\u1ECDc k\u00EC 2 n\u0103m 3\\ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\th\u1EF1c h\u00E0nh\\asc.solution\\asc.web\\areas\\accounts\\views\\account\\serviceengineers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\accounts\\views\\account\\serviceengineers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|d:\\c\u00E1c n\u1ED9i d\u1EE5ng kh\u00E1c\\c\u00E1c m\u00F4n h\u1ECDc\\h\u1ECDc k\u00EC 2 n\u0103m 3\\ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\th\u1EF1c h\u00E0nh\\asc.solution\\asc.web\\areas\\accounts\\views\\account\\customers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\accounts\\views\\account\\customers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|d:\\c\u00E1c n\u1ED9i d\u1EE5ng kh\u00E1c\\c\u00E1c m\u00F4n h\u1ECDc\\h\u1ECDc k\u00EC 2 n\u0103m 3\\ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\th\u1EF1c h\u00E0nh\\asc.solution\\asc.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|d:\\c\u00E1c n\u1ED9i d\u1EE5ng kh\u00E1c\\c\u00E1c m\u00F4n h\u1ECDc\\h\u1ECDc k\u00EC 2 n\u0103m 3\\ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\th\u1EF1c h\u00E0nh\\asc.solution\\asc.web\\areas\\accounts\\models\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\accounts\\models\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|d:\\c\u00E1c n\u1ED9i d\u1EE5ng kh\u00E1c\\c\u00E1c m\u00F4n h\u1ECDc\\h\u1ECDc k\u00EC 2 n\u0103m 3\\ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\th\u1EF1c h\u00E0nh\\asc.solution\\asc.web\\areas\\accounts\\models\\customerregistrationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2B51329-B2FF-447F-8246-C78EC436C5F8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\accounts\\models\\customerregistrationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,73 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Program.cs",
-              "RelativeDocumentMoniker": "ASC.Web\\Program.cs",
-              "ToolTip": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Program.cs",
-              "RelativeToolTip": "ASC.Web\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T05:49:12.669Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Customers.cshtml",
-              "DocumentMoniker": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Areas\\Accounts\\Views\\Account\\Customers.cshtml",
-              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Accounts\\Views\\Account\\Customers.cshtml",
-              "ToolTip": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Areas\\Accounts\\Views\\Account\\Customers.cshtml",
-              "RelativeToolTip": "ASC.Web\\Areas\\Accounts\\Views\\Account\\Customers.cshtml",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAAE0AAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-10T14:34:14.634Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Areas\\Accounts\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Accounts\\Controllers\\AccountController.cs",
-              "ToolTip": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Areas\\Accounts\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "ASC.Web\\Areas\\Accounts\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Title": "IEmailSender.cs",
+              "DocumentMoniker": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Services\\IEmailSender.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Services\\IEmailSender.cs",
+              "ToolTip": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Services\\IEmailSender.cs",
+              "RelativeToolTip": "ASC.Web\\Services\\IEmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T14:27:25.881Z",
+              "WhenOpened": "2025-04-17T13:50:05.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Areas\\Accounts\\Views\\Account\\Profile.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Accounts\\Views\\Account\\Profile.cshtml",
+              "ToolTip": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Areas\\Accounts\\Views\\Account\\Profile.cshtml",
+              "RelativeToolTip": "ASC.Web\\Areas\\Accounts\\Views\\Account\\Profile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T06:28:00.178Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CustomerViewModel.cs",
-              "DocumentMoniker": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Areas\\Accounts\\Models\\CustomerViewModel.cs",
-              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Accounts\\Models\\CustomerViewModel.cs",
-              "ToolTip": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Areas\\Accounts\\Models\\CustomerViewModel.cs",
-              "RelativeToolTip": "ASC.Web\\Areas\\Accounts\\Models\\CustomerViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T14:25:04.289Z",
+              "Title": "ServiceEngineers.cshtml",
+              "DocumentMoniker": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Areas\\Accounts\\Views\\Account\\ServiceEngineers.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Accounts\\Views\\Account\\ServiceEngineers.cshtml",
+              "ToolTip": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Areas\\Accounts\\Views\\Account\\ServiceEngineers.cshtml",
+              "RelativeToolTip": "ASC.Web\\Areas\\Accounts\\Views\\Account\\ServiceEngineers.cshtml",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAAALIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T06:28:11.739Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "CustomerRegistrationViewModel.cs",
-              "DocumentMoniker": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Areas\\Accounts\\Models\\CustomerRegistrationViewModel.cs",
-              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Accounts\\Models\\CustomerRegistrationViewModel.cs",
-              "ToolTip": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Areas\\Accounts\\Models\\CustomerRegistrationViewModel.cs",
-              "RelativeToolTip": "ASC.Web\\Areas\\Accounts\\Models\\CustomerRegistrationViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Title": "Customers.cshtml",
+              "DocumentMoniker": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Areas\\Accounts\\Views\\Account\\Customers.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Accounts\\Views\\Account\\Customers.cshtml",
+              "ToolTip": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Areas\\Accounts\\Views\\Account\\Customers.cshtml",
+              "RelativeToolTip": "ASC.Web\\Areas\\Accounts\\Views\\Account\\Customers.cshtml",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAcwJUAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T06:27:45.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Areas\\Accounts\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Accounts\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\C\u00E1c N\u1ED9i d\u1EE5ng kh\u00E1c\\C\u00E1c m\u00F4n h\u1ECDc\\H\u1ECDc k\u00EC 2 n\u0103m 3\\Ki\u1EBFn tr\u00FAc v\u00E0 thi\u1EBFt k\u00EA ph\u1EA7n m\u1EC1m\\Th\u1EF1c h\u00E0nh\\ASC.Solution\\ASC.Web\\Areas\\Accounts\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ASC.Web\\Areas\\Accounts\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAAALMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T14:23:48.738Z",
+              "WhenOpened": "2025-04-17T06:25:37.613Z",
               "EditorCaption": ""
             }
           ]

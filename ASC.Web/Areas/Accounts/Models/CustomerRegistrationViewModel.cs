@@ -8,11 +8,11 @@ namespace ASC.Web.Areas.Accounts.Models
         [EmailAddress]
         [Display(Name = "Email")]
         public string Email { get; set; }
-        public string UserName { get; set; }
+
+        public string? UserName { get; set; }
 
         public bool IsEdit { get; set; }
 
         public bool IsActive { get; set; }
     }
 }
-
