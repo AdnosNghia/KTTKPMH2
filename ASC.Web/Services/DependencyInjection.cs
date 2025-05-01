@@ -5,11 +5,14 @@ using ASC.Web.Configuration;
 using ASC.Web.Data;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Internal;
+using ASC.Business;
+using ASC.Business.Interfaces;
 using ASC.Web.Data.ASC.Web.Data;
+using OfficeOpenXml;
 
 namespace ASC.Web.Services
 {
-
     public static class DependencyInjection
     {
         // Config services
@@ -21,55 +24,61 @@ namespace ASC.Web.Services
             services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(connectionString));
 
             // Add Options and get data from appsettings.json with "AppSettings"
-            services.AddOptions(); // IOption
+            services.AddOptions(); // IOptions
             services.Configure<ApplicationSettings>(config.GetSection("AppSettings"));
-            //Using a Gmail Authentication Provider for Customer Authentication
-            services.AddAuthentication()
-                .AddGoogle(options =>
-                {
-                    IConfigurationSection googleAuthSection = config.GetSection("Authentication:Google");
-                    options.ClientId = config["Google:Identity:ClientId"];
-                    options.ClientSecret = config["Google:Identity:ClientSecret"];
-                });
+
+            //Lab 5_ Using a Gmail Authentication Provider for Customer Authentication
+            services.AddAuthentication().AddGoogle(options =>
+            {
+                IConfiguration googleAuthNSection = config.GetSection(("Authentication:Google"));
+                options.ClientId = config["Google:Identity:ClientId"];
+                options.ClientSecret = config["Google:Identity:ClientSecret"];
+            });
+
             return services;
         }
 
         // Add service
         public static IServiceCollection AddMyDependencyGroup(this IServiceCollection services)
         {
+            // Add ApplicationDbContext
+            services.AddScoped<DbContext, ApplicationDbContext>();
+
             // Add IdentityUser IdentityUser
             services.AddIdentity<IdentityUser, IdentityRole>((options) =>
             {
                 options.User.RequireUniqueEmail = true;
-            }).AddEntityFrameworkStores<ApplicationDbContext>().AddDefaultTokenProviders();
+            }).AddEntityFrameworkStores<ApplicationDbContext>().AddDefaultTokenProviders().AddDefaultUI();
 
             // Add services
-            services.AddTransient<ASC.Web.Services.IEmailSender, AuthMessageSender>();
-            services.AddTransient<Microsoft.AspNetCore.Identity.UI.Services.IEmailSender, EmailSenderAdapter>();
+            services.AddTransient<IEmailSender, AuthMessageSender>();
             services.AddTransient<ISmsSender, AuthMessageSender>();
-
-
-
             services.AddSingleton<IIdentitySeed, IdentitySeed>();
             services.AddScoped<IUnitOfWork, UnitOfWork>();
 
-            // Thêm Cache và Session
-            services.AddSession();
-            services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+            //Lab6
+            services.AddControllersWithViews().AddJsonOptions(options =>
+            {
+                options.JsonSerializerOptions.PropertyNamingPolicy = null;
+            });
 
-            services.AddDistributedMemoryCache(); // Thêm bộ nhớ cache phân tán
+            // Add MasterDataOperations
+            services.AddScoped<IMasterDataOperations, MasterDataOperations>();
+            services.AddAutoMapper(typeof(ApplicationDbContext));
+
+            //Add Cache, Session
+            services.AddSession();
+            //services.AddScoped<IHttpContextAccessor, HttpContextAccessor>();
+            services.AddHttpContextAccessor();
+            //Additional
+            services.AddDistributedMemoryCache();
             services.AddSingleton<INavigationCacheOperations, NavigationCacheOperations>();
+            //End
 
             // Add RazorPages, MVC
             services.AddRazorPages();
             services.AddDatabaseDeveloperPageExceptionFilter();
-
             services.AddControllersWithViews();
-
-            services.Configure<DataProtectionTokenProviderOptions>(opt =>
-    opt.TokenLifespan = TimeSpan.FromHours(2)); // Tăng thời gian lên nếu cần
-
-
             return services;
         }
     }

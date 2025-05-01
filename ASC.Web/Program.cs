@@ -7,16 +7,14 @@ using ASC.Web.Services;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
+using OfficeOpenXml;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.  
-builder.Services
-    .AddConfig(builder.Configuration)
-    .AddMyDependencyGroup();
+builder.Services.AddConfig(builder.Configuration).AddMyDependencyGroup(); //Add revise
+
 
 var app = builder.Build();
-
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
@@ -32,21 +30,17 @@ else
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
-app.UseSession(); 
+
 app.UseRouting();
-app.MapRazorPages();
+app.UseSession();
 app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "areaRoute",
     pattern: "{area:exists}/{controller=Home}/{action=Index}");
-
-
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
-    
-
 app.MapRazorPages();
 
 using (var scope = app.Services.CreateScope())
@@ -59,9 +53,6 @@ using (var scope = app.Services.CreateScope())
     );
 }
 
-
-
-//CreateNavigationCache
 using (var scope = app.Services.CreateScope())
 {
     var navigationCacheOperations = scope.ServiceProvider.GetRequiredService<INavigationCacheOperations>();

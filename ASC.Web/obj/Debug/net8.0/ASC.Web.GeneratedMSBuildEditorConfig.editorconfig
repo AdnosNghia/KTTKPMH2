@@ -42,6 +42,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWNjb3VudHNcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Các Nội dụng khác/Các môn học/Học kì 2 năm 3/Kiến trúc và thiết kê phần mềm/Thực hành/ASC.Solution/ASC.Web/Areas/Configuration/Views/MasterData/MasterKeys.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ29uZmlndXJhdGlvblxWaWV3c1xNYXN0ZXJEYXRhXE1hc3RlcktleXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Các Nội dụng khác/Các môn học/Học kì 2 năm 3/Kiến trúc và thiết kê phần mềm/Thực hành/ASC.Solution/ASC.Web/Areas/Configuration/Views/MasterData/MasterValues.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ29uZmlndXJhdGlvblxWaWV3c1xNYXN0ZXJEYXRhXE1hc3RlclZhbHVlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Các Nội dụng khác/Các môn học/Học kì 2 năm 3/Kiến trúc và thiết kê phần mềm/Thực hành/ASC.Solution/ASC.Web/Areas/Configuration/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ29uZmlndXJhdGlvblxWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Các Nội dụng khác/Các môn học/Học kì 2 năm 3/Kiến trúc và thiết kê phần mềm/Thực hành/ASC.Solution/ASC.Web/Areas/Identity/Pages/Account/AccessDenied.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

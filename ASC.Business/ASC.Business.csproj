@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ASC.DataAcess\ASC.DataAcess.csproj" />
+    <ProjectReference Include="..\ASC.Model\ASC.Model.csproj" />
+  </ItemGroup>
+
 </Project>

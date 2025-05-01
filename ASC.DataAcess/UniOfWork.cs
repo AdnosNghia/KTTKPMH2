@@ -19,8 +19,6 @@ namespace ASC.DataAccess
             _dbContext = dbContext;
         }
 
-
-
         public int CommitTransaction()
         {
             return _dbContext.SaveChanges();

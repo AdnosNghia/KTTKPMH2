@@ -28,7 +28,14 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\Các Nội dụng khác\\Các môn học\\Học kì 2 năm 3\\Kiến trúc và thiết kê phần mềm\\Thực hành\\ASC.Solution\\ASC.DataAcess\\ASC.DataAcess.csproj": {
+                "projectPath": "D:\\Các Nội dụng khác\\Các môn học\\Học kì 2 năm 3\\Kiến trúc và thiết kê phần mềm\\Thực hành\\ASC.Solution\\ASC.DataAcess\\ASC.DataAcess.csproj"
+              },
+              "D:\\Các Nội dụng khác\\Các môn học\\Học kì 2 năm 3\\Kiến trúc và thiết kê phần mềm\\Thực hành\\ASC.Solution\\ASC.Model\\ASC.Model.csproj": {
+                "projectPath": "D:\\Các Nội dụng khác\\Các môn học\\Học kì 2 năm 3\\Kiến trúc và thiết kê phần mềm\\Thực hành\\ASC.Solution\\ASC.Model\\ASC.Model.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -334,6 +341,22 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "EPPlus": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "ElCamino.AspNetCore.Identity.AzureTable": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
             "MailKit": {
               "target": "Package",
               "version": "[4.11.0, )"

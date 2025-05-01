@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "akSW6OzhDKkQ0oc39YzBzuUZjAQLS4bbto0At1+9zEk=",
+  "Hash": "gxeomDfZzT5KPQIQdK6FIdOh8s/RgBGB0Z4iNxhycfU=",
   "Source": "ASC.Web",
   "BasePath": "_content/ASC.Web",
   "Mode": "Default",
@@ -1478,6 +1478,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\Blackcar2.jpg"
+    },
+    {
+      "Identity": "D:\\Các Nội dụng khác\\Các môn học\\Học kì 2 năm 3\\Kiến trúc và thiết kê phần mềm\\Thực hành\\ASC.Solution\\ASC.Web\\wwwroot\\images\\excel.png",
+      "SourceId": "ASC.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Các Nội dụng khác\\Các môn học\\Học kì 2 năm 3\\Kiến trúc và thiết kê phần mềm\\Thực hành\\ASC.Solution\\ASC.Web\\wwwroot\\",
+      "BasePath": "_content/ASC.Web",
+      "RelativePath": "images/excel.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\excel.png"
     },
     {
       "Identity": "D:\\Các Nội dụng khác\\Các môn học\\Học kì 2 năm 3\\Kiến trúc và thiết kê phần mềm\\Thực hành\\ASC.Solution\\ASC.Web\\wwwroot\\images\\green_tick.png",
